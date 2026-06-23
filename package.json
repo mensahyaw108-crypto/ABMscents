@@ -1,0 +1,11 @@
+{
+  "name": "abmscents",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A static fragrance shop for ABMscents with cart, inventory, and order tracking.",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node scripts/build.js",
+    "preview": "node server.js dist"
+  }
+}

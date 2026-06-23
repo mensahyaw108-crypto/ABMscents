@@ -1,0 +1,1815 @@
+ 
+ 
+ 
+ 
+<!DOCTYPE html>
+<html class="no-js no-touch" lang="es-CO">
+<head>
+    
+
+
+<!-- OptanonConsentNoticeStart -->
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="56d44f6a-ca38-4168-9a72-0c9e9b5728cd" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OptanonConsentNoticeEnd -->
+
+    <meta charset="utf-8" />
+    <meta data-octopus-release="3.51.0-release00000002" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#009ee2" />
+    
+
+
+<link rel="manifest" href="/frontend/master/manifest.json">
+
+
+<link rel="preconnect" href="https://www.googletagmanager.com" />
+<link rel="preconnect" href="https://code.jquery.com" />
+
+
+<link rel="preload" href="/frontend/master/css/all.cfb8eb54.css" as="style" />
+
+<link rel="stylesheet" type="text/css" href="/frontend/master/css/all.cfb8eb54.css" />
+
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery-3.4.1.min.js"></script>
+<script async  type="text/javascript" src="/frontend/master/js/jsfocuspoint.js"></script>
+
+
+<link rel="preload" href="/frontend/master/js/npm.core-js.17961292.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.axios.adf572dd.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vuelidate.3c0e8eef.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue-awesome-swiper.31c6d70b.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.swiper.76e7c97f.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue.061781c4.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vuex.7dd44b4c.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue-star-rating.3cc6361c.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue-slick-carousel.77ac86a1.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue-slick-carousel-rtl.d4485e23.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue-cookie.fa7302ac.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.tiny-cookie.d47a4ad7.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.ssr-window.7510b4ae.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.register-service-worker.afefbcbb.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.dom7.c9a95756.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.aos.7ee88bea.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.loreal.703b6aa1.js" as="script" />
+<link rel="preload" href="/frontend/master/js/all.50e0d8a0.js" as="script" />
+
+<script defer type="text/javascript" src="/frontend/master/js/npm.core-js.17961292.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.axios.adf572dd.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vuelidate.3c0e8eef.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue-awesome-swiper.31c6d70b.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.swiper.76e7c97f.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue.061781c4.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vuex.7dd44b4c.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue-star-rating.3cc6361c.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue-slick-carousel.77ac86a1.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue-slick-carousel-rtl.d4485e23.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue-cookie.fa7302ac.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.tiny-cookie.d47a4ad7.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.ssr-window.7510b4ae.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.register-service-worker.afefbcbb.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.dom7.c9a95756.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.aos.7ee88bea.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.loreal.703b6aa1.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/all.50e0d8a0.js"></script>
+
+
+    <!--To call respective googleAPI font-family  -->
+
+    <!-- Hidden vue components -->
+    <style>
+        [v-cloak] {
+            display: none
+        }
+    </style>
+    <!--raw values of the body with font names-->
+
+    
+<script>
+    var dataLayer = window["dataLayer"] || [];
+    if (!window.wsf) { window.wsf = { AnalyticsVariables: {} }; }
+    window.wsf.AnalyticsVariables = {"language":"es","country":"CO","siteTypeLevel":"main","brand":"LRP","masterVersion":"3.2","factory":"WSF","website_type":"NON-DTC","dynamic":{"currency":"eur"},"breadCrumb":"home > error handling > 404"};
+</script>
+
+<script>
+    if (!window.wsf) { window.wsf = { AnalyticsVariables: {} }; }
+window.wsf.AnalyticsVariables.pageCategory = "error page";
+
+window.wsf.AnalyticsVariables.uiLoggedStatus = "not logged";
+window.wsf.AnalyticsVariables.newsletterSubscription = false;
+    
+    var dynamicProps = window.wsf.AnalyticsVariables.dynamic;
+    delete window.wsf.AnalyticsVariables.dynamic;
+    dataLayer.push(window.wsf.AnalyticsVariables);
+
+    window.wsf.AnalyticsVariablesDynamic = dynamicProps;
+</script>
+
+
+
+
+
+<script type="text/javascript">
+        if (typeof(OptanonWrapper) === 'function') {
+            window.gtmLoaded = false;
+            function OptanonWrapper() {
+                if (!window.gtmLoaded) {
+                    window.gtmLoaded = true;
+                        (function(w, d, s, l, i) {
+                        w[l] = w[l] || [];
+                        w[l].push({
+                            'gtm.start': new Date().getTime(),
+                            event: 'gtm.js'
+                        });
+                        var f = d.getElementsByTagName(s)[0],
+                            j = d.createElement(s),
+                            dl = l != 'dataLayer' ? '&l=' + l : '';
+                        j.async = true;
+                        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                        f.parentNode.insertBefore(j, f);
+                    })(window, document, 'script', 'dataLayer', 'GTM-TZLHFXL');
+                }
+            }
+               
+            setTimeout(() => {
+                if (!window.gtmLoaded) {
+                    OptanonWrapper()
+                }
+            }, 1000);
+        } else {
+            function gtmManager() {}
+            (function(w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-TZLHFXL');
+        }
+</script>
+
+
+<meta name="google-site-verification" content=""/>
+
+
+
+
+    <link href="/-/media/project/loreal/brand-sites/lrp/shared/baseline/identity/favicon.png" rel="shortcut icon" />
+
+
+<link rel="canonical" href="https://www.laroche-posay.co/error-handling/404"/>
+
+
+
+
+    <title></title>
+    <meta name="description"/>
+    <meta name="keywords"/>
+    <meta property="og:title" content=""/>
+    <meta property="og:description" content=""/>
+    <meta name="twitter:title" content=""/>
+    <meta name="twitter:description" content=""/>
+
+
+
+
+
+    
+
+    <script type="application/json" id="refapp-global-tagging-configuration">
+    {
+        "globalVars": {
+                         "[page category]": "error page"
+                      }
+    }
+    </script>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="home-page-transparancy-slider  CO" class="default-device wireframe-images">
+        <a href="#main-content" class="skipto">
+            <span class="skipto__text">
+                Ir al contenido
+            </span>
+        </a>
+
+
+    <script>
+        var html = document.querySelector('html');
+        html.classList.remove('no-js');
+        if (('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
+            html.classList.remove('no-touch');
+            html.classList.add('has-touch');
+        }
+        let popupStatePushed = false;
+        document.addEventListener("DOMContentLoaded", (event) => {
+            if (window.wsf.AnalyticsVariables) {
+                window.wsf.pageCategory = window.wsf.AnalyticsVariables.pageCategory;
+            }
+            const shutterButtons = document.querySelectorAll('.shutter-btn');
+            shutterButtons.forEach(button => {
+                button.addEventListener('click', function (event) {
+                    event.preventDefault();
+                    document.getElementById('loader').style.display = 'block';
+                    document.getElementById('popupFrame').src = event.currentTarget.href;
+                    document.getElementById('popup').style.display = 'block';
+                    document.querySelector('.shutterpage-overlay').style.display = 'block';
+                    document.body.classList.add('multipopin-open');
+                    setTimeout(() => {
+                        document.querySelector(".btn-close").focus();
+                    }, 300);
+                    document.getElementById('popupFrame').style.display = 'none';
+                });
+            });
+            const overlayBtn = document.querySelector('.shutterpage-overlay');
+            overlayBtn.addEventListener('click', function () {
+                closePopup();
+            });
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape') {
+                    closePopup();
+                }
+            });
+            // Detect browser back button click
+            window.addEventListener('popstate', function (event) {
+                const popup = document.getElementById('popup');
+                if (popup) {
+                    const popupStyle = window.getComputedStyle(popup);
+                    if (popupStyle.display === 'block') {
+                        // Reset flag before closing since state was already popped
+                        popupStatePushed = false;
+                        // Stop YouTube videos before closing
+                        const popupFrame = document.getElementById('popupFrame');
+                        if (popupFrame) {
+                            try {
+                                if (popupFrame.contentWindow) {
+                                    popupFrame.contentWindow.postMessage('{"event":"command","func":"stopVideo","args":""}', '*');
+                                    popupFrame.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+                                }
+                            } catch (e) {
+                                // Ignore errors
+                            }
+                            popupFrame.src = 'about:blank';
+                        }
+                        // Close popup without modifying history (already popped)
+                        document.getElementById('popup').style.display = 'none';
+                        document.querySelector('.shutterpage-overlay').style.display = 'none';
+                        document.body.classList.remove('multipopin-open');
+                    }
+                }
+            });
+            window.addEventListener('pageshow', function (event) {
+                if (event.persisted) {
+                    const popup = document.getElementById('popup');
+                    if (popup) {
+                        const popupStyle = window.getComputedStyle(popup);
+                        if (popupStyle.display === 'block') {
+                            // Reset flag before closing since state was already popped
+                            popupStatePushed = false;
+                            // Stop YouTube videos before closing
+                            const popupFrame = document.getElementById('popupFrame');
+                            if (popupFrame) {
+                                try {
+                                    if (popupFrame.contentWindow) {
+                                        popupFrame.contentWindow.postMessage('{"event":"command","func":"stopVideo","args":""}', '*');
+                                        popupFrame.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+                                    }
+                                } catch (e) {
+                                    // Ignore errors
+                                }
+                                popupFrame.src = 'about:blank';
+                            }
+                            // Close popup without modifying history (already popped)
+                            document.getElementById('popup').style.display = 'none';
+                            document.querySelector('.shutterpage-overlay').style.display = 'none';
+                            document.body.classList.remove('multipopin-open');
+                        }
+                    }
+                }
+            });
+        });
+
+
+
+        function closePopup() {
+            const popup = document.getElementById('popup');
+            if (popup && popup.style.display === 'block') {
+                // Clean up history state if it was pushed
+                if (popupStatePushed && window.history && window.history.replaceState) {
+                    window.history.replaceState({}, '', window.location.pathname);
+                    popupStatePushed = false;
+                }
+            }
+
+            // Stop YouTube videos in the iframe
+            const popupFrame = document.getElementById('popupFrame');
+            if (popupFrame) {
+                try {
+                    // Try to access iframe content (may fail due to CORS)
+                    const iframeDoc = popupFrame.contentDocument || popupFrame.contentWindow.document;
+                    const iframeWindow = popupFrame.contentWindow;
+
+                    // Stop YouTube API players if they exist
+                    if (iframeWindow && typeof iframeWindow.YT !== 'undefined') {
+                        // Find all YouTube players in the iframe
+                        const players = iframeWindow.YT.getPlayers ? Object.values(iframeWindow.YT.getPlayers()) : [];
+                        players.forEach(player => {
+                            try {
+                                if (player && typeof player.stopVideo === 'function') {
+                                    player.stopVideo();
+                                }
+                            } catch (e) {
+                                // Ignore errors
+                            }
+                        });
+                    }
+
+                    // Try to stop videos via postMessage (for YouTube embeds)
+                    if (iframeWindow) {
+                        try {
+                            // Stop video via postMessage
+                            popupFrame.contentWindow.postMessage('{"event":"command","func":"stopVideo","args":""}', '*');
+                            popupFrame.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+                        } catch (e) {
+                            // Ignore errors
+                        }
+                    }
+                } catch (e) {
+                    // CORS error - can't access iframe content, but we can still clear src
+                }
+
+                // Clear iframe src to stop video from loading/playing
+                // This is the most reliable way to stop videos
+                popupFrame.src = 'about:blank';
+            }
+
+            document.getElementById('popup').style.display = 'none';
+            document.querySelector('.shutterpage-overlay').style.display = 'none';
+            document.body.classList.remove('multipopin-open');
+        }
+
+        function iframeLoaded() {
+            document.getElementById('loader').style.display = 'none';
+            document.getElementById('popupFrame').style.display = 'block';
+            const iframe = document.getElementById('popupFrame');
+            const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+
+            // Hide elements inside iframe
+            iframeDoc.querySelector('header')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('footer')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('.footer-banner')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('.newsletter-sticky')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('.multipopin')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('#onetrust-banner-sdk')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('#refapp-user-redirect-popup-example')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('.without-shutter')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('#content')?.style.setProperty('margin-top', '0', 'important');
+            iframeDoc.querySelectorAll('a').forEach(link => {
+                link.addEventListener('click', function (event) {
+                    event.preventDefault(); // stop normal link behavior
+                    window.top.location.href = this.href; // redirect at browser level
+                });
+            });
+            iframeDoc.addEventListener('scroll', () => {
+                setTimeout(() => {
+                    iframeDoc.querySelector('.show-newsletter-sticky')?.closest('#content').style.setProperty('margin-top', '0', 'important');
+                }, 300);
+            });
+        }
+    </script>
+    <div class="shutterpage-overlay"></div>
+    <div id="popup" class="shutter_popup" style="display:none;" role="dialog" aria-modal="true" aria-label="shutterPopup">
+        <button type="button" onclick="closePopup()" class="btn-close">
+            <svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M20.4233 4.42383L12.8472 12L20.4233 19.5762L19.5757 20.4238L11.9995 12.8477L4.42334 20.4238L3.57568 19.5762L11.1519 12L3.57568 4.42383L4.42334 3.57617L11.9995 11.1523L19.5757 3.57617L20.4233 4.42383Z" fill="black" />
+            </svg>
+            <span class="sr-only">Close</span>
+        </button>
+        <div id="loader"
+             style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);
+              font-family:sans-serif;">Loading...</div>
+            <iframe id="popupFrame" width="800" height="500" title="popup-frame" onload="iframeLoaded()"></iframe>
+        </div>
+
+        <div id="main-container" v-no-js-handler>
+
+            
+            
+<header class="header" role="banner">
+    <div class="header__wrapper">
+        
+            <div slot="mainMenuBarLogo" class="main-menu-bar__logo-wrapper">
+                <a href="/" class="main-menu-bar__logo" itemprop="url" aria-label="La Roche-Posay, laboratoire dermatologique (volver a inicio)" v-tag:useractionevent="{label: 'logo', category: 'main menu navigation', action: 'select::header',event_name: 'logo_click' }">
+                    <img src="/-/media/project/loreal/brand-sites/lrp/shared/baseline/identity/lrp_logo.png?h=51&amp;w=200&amp;la=es-CO&amp;hash=7C4087496A67D63247499892CE45A68A" alt="La Roche Posay" />
+                    <span class="transparent-logo"><img src="/-/media/project/loreal/brand-sites/lrp/america/new-header-icons/white-logo.png?h=81&amp;w=310&amp;la=es-CO&amp;hash=DB026D19F4772366822584716465A6F9" alt="La Roche Posay" /></span>
+                </a>
+            </div>
+
+
+
+
+        
+
+<div class="component navigation-component">
+    <div class="component-content">
+        <main-menu is-tranparent-header="false"
+                   search-bar-a11y-aria-label-clear="Borrar el campo de b&#250;squeda"
+                   search-bar-clear-label="Borrar" search-bar-help-text="Escribir 3 caracteres como m&#237;nimo"
+                   search-bar-icon-clear="/frontend/master/images/icons/search-close.svg"
+                   search-bar-icon-search="/frontend/master/images/icons/search-icon-new.svg"
+                   search-bar-placeholder="Preguntar ingredientes, afecciones, dudas..." search-bar-redirect-url="/buscar?q="
+                   search-bar-api-url="/apilrp/searchSuggestion/SuggestedSearch?query="
+                   trending-search-bar-api-url="/apilrp/trendingsearch/GetTrendingKeywords"
+                   a11y-aria-label-language="Idioma del sitio"
+                   current-language="ES"
+                   a11y-aria-label-principal-menu="Men&#250; principal"
+                   a11y-aria-label-main-menu="Men&#250; principal"
+                   :acc-enable="false"
+                   :acc-enable-animation="false"
+                   :acc-enable-contrast="false"
+                   page-category="error page"
+                   :lang-switcher-is-enable="false"
+                   :item-data="[]" search-label="search"
+                   >
+            <!-- to be made dynamic: a11y-aria-label-principal-menu, a11y-aria-label-main-menu -->
+
+            <ul slot="navlist" class="nav__list" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-hidden="true">
+    <li class="nav__item" aria-expanded="false">
+
+    </li>
+</ul>
+
+<template slot="accountNav" scope="props">
+            <ul class="main-menu-nav__level-1 is-secondary nav-accounts">
+
+
+
+
+<li class="main-menu-nav__item">
+            <a class="main-menu-nav__tab"
+               @blur="props.menuOnBlurSecondaryTab()"
+               href="/subscripcion-al-boletin"
+               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot; newsletter&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot; newsletter&quot;}">
+                <span class="main-menu-nav__icon">
+                    <img src="/-/media/feature/lrpnavigation/burger-menu/icon-5.svg" alt="alt">
+                </span>
+                <span class="main-menu-nav__icon transparent-icon">
+                    <img src="/-/media/project/loreal/brand-sites/lrp/america/new-header-icons/my-account-white.svg" alt="Account">
+                </span>
+                <span class="main-menu-nav__icon--text"> NewsLetter</span>
+            </a>
+</li>
+
+
+
+<li class="main-menu-nav__item">
+            <a class="main-menu-nav__tab"
+               @blur="props.menuOnBlurSecondaryTab()"
+               href="/pagina-del-localizador-de-tiendas"
+               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;busca una tienda&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;busca una tienda&quot;}">
+                <span class="main-menu-nav__icon">
+                    <img src="/-/media/feature/lrpnavigation/burger-menu/icon-6.svg" alt="">
+                </span>
+                <span class="main-menu-nav__icon transparent-icon">
+                    <img src="/-/media/project/loreal/brand-sites/lrp/america/new-header-icons/location-white.svg" alt="Store">
+                </span>
+                <span class="main-menu-nav__icon--text">Busca una tienda</span>
+            </a>
+</li>
+            </ul>
+
+</template>
+
+
+
+            
+<template slot="nav" scope="props">
+            <ul class="main-menu-nav__level-1 is-primary">
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <button @click="props.menuLevelOpen(1)"
+                @mouseover="props.menuLevelOpen(1)"
+                :aria-expanded="props.menuLevel2 === 1 ? 'true' : 'false'"
+                class="main-menu-nav__tab desktop-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto&quot;}">
+            <p>
+                Buscar un producto
+            </p>
+        </button>
+        <button @click="props.menuLevelOpen(1)"
+                :aria-expanded="props.menuLevel2 === 1 ? 'true' : 'false'"
+                class="main-menu-nav__tab mobile-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto&quot;}">
+            <p>
+                Buscar un producto
+            </p>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <section v-if="props.menuLevel2 === 1"
+                 aria-labelledby="unique-identifier-1"
+                 class="main-menu-nav__level-2-wrapper">
+            <div class="main-menu-nav__item-back-level-1">
+                <button @click="props.menuLevelOpen(0)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <div class="main-menu-nav__content">
+
+                    <a href="/event/effaclar-spotscan-plus" v-tag:useractionevent="{&quot;event&quot;:&quot;uaevent&quot;,&quot;ecommerce&quot;:&quot;undefined&quot;,&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::prueba spotscan+&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::prueba spotscan+&quot;}">
+                            <img class="image" src="/-/media/project/loreal/brand-sites/lrp/america/latam/simple-page/landing-page/spotscan/lrpspotscandesktopbanner1440x450matteogrimacewithlogoandqrcode.jpg" alt="">
+
+                        <p class="is-2" id="unique-identifier-1"></p>
+
+                        <div class="content">
+                            <p>SPOTSCAN+<br />
+PARA PIEL MIXTA A GRASA.<br />
+AN&Aacute;LISIS DE PIEL,<br />
+CO-CREADA CON DERMAT&Oacute;LOGOS,<br />
+POTENCIADO POR LA INTELIGENCIA ARTIFICIAL</p>
+                        </div>
+                    </a>
+                    <div class="cta cta--light ">
+                        <a href="/event/effaclar-spotscan-plus" class="btn__wrapper"  v-tag:useractionevent="{&quot;event&quot;:&quot;uaevent&quot;,&quot;ecommerce&quot;:&quot;undefined&quot;,&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::prueba spotscan+&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::prueba spotscan+&quot;}">
+                            PRUEBA SPOTSCAN+
+                        </a>
+                    </div>
+
+            </div>
+
+            <button class="main-menu-nav__level--mobile-back" @click="props.menuLevelOpen(0)">
+
+                Buscar un producto
+            </button>
+
+                <ul class="main-menu-nav__level-2">
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 1 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 1, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 1 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::tu piel es&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::tu piel es&quot;}">
+            Tu piel es
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 1 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                Tu piel es
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/el-estado-de-tu-piel-anti-envejecimiento"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::tu piel es::piel madura&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::tu piel es::piel madura&quot;}">
+                                Piel Madura
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/el-estado-de-tu-piel-piel-intolerante"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::tu piel es::piel intolerante&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::tu piel es::piel intolerante&quot;}">
+                                Piel intolerante
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/el-estado-de-tu-piel-piel-normal-a-mixta"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::tu piel es::piel normal a mixta&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::tu piel es::piel normal a mixta&quot;}">
+                                Piel normal a mixta
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/el-estado-de-tu-piel-piel-grasa-con-imperfecciones"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::tu piel es::piel grasa con imperfecciones&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::tu piel es::piel grasa con imperfecciones&quot;}">
+                                Piel grasa con imperfecciones
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/el-estado-de-tu-piel-piel-sensible"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::tu piel es::piel sensible&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::tu piel es::piel sensible&quot;}">
+                                Piel sensible
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 2 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 2, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 2 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado facial&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado facial&quot;}">
+            Cuidado facial
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 2 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                Cuidado facial
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/el-estado-de-tu-piel-anti-envejecimiento"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado facial::cuidado anti-edad&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado facial::cuidado anti-edad&quot;}">
+                                Cuidado Anti-Edad
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/cuidado-facial-cuidado-de-ojos"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado facial::cuidado de los ojos&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado facial::cuidado de los ojos&quot;}">
+                                Cuidado de los ojos
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/cuidado-facial-limpiador-facial"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado facial::limpiador facial&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado facial::limpiador facial&quot;}">
+                                Limpiador facial
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/hidratante-facial"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado facial::hidratante facial&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado facial::hidratante facial&quot;}">
+                                Hidratante facial
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/cuidado-facial-cuidado-de-los-labios"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado facial::cuidado para los labios&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado facial::cuidado para los labios&quot;}">
+                                Cuidado para los labios
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/cuidado-facial-cuidado-pro-recuperacion"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado facial::cuidado pro-recuperaci&#243;n&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado facial::cuidado pro-recuperaci&#243;n&quot;}">
+                                Cuidado pro-recuperaci&#243;n
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/cuidado-facial-tonicos-y-brumas"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado facial::t&#243;nicos y brumas&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado facial::t&#243;nicos y brumas&quot;}">
+                                T&#243;nicos y brumas
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 3 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 3, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 3 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado corporal&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado corporal&quot;}">
+            Cuidado corporal
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 3 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                Cuidado corporal
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/cuidado-corporal-hidratante-para-el-cuerpo"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado corporal::hidratante corporal&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado corporal::hidratante corporal&quot;}">
+                                Hidratante corporal
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/cuidado-corporal-gel-de-ducha"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado corporal::limpieza corporal&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado corporal::limpieza corporal&quot;}">
+                                Limpieza corporal
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/cuidado-corporal-cuidado-pro-recuperacion"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::cuidado corporal::cuidado pro-recuperaci&#243;n&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::cuidado corporal::cuidado pro-recuperaci&#243;n&quot;}">
+                                Cuidado pro-recuperaci&#243;n
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 4 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 4, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 4 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::protecci&#243;n solar&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::protecci&#243;n solar&quot;}">
+            Protecci&#243;n solar
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 4 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                Protecci&#243;n solar
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/proteccion-solar-proteccion-solar-para-rostro"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::protecci&#243;n solar::cuidado solar para el rostro&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::protecci&#243;n solar::cuidado solar para el rostro&quot;}">
+                                Cuidado solar para el rostro
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/proteccion-solar-proteccion-solar-para-el-cuerpo"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::protecci&#243;n solar::protecci&#243;n solar para el cuerpo&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::protecci&#243;n solar::protecci&#243;n solar para el cuerpo&quot;}">
+                                Protecci&#243;n solar para el cuerpo
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 5 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 5, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 5 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::para ni&#241;os&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::para ni&#241;os&quot;}">
+            Para ni&#241;os
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 5 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                Para ni&#241;os
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/hidratante-de-cuerpo-para-ninos"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::para ni&#241;os::hidratante corporal&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::para ni&#241;os::hidratante corporal&quot;}">
+                                Hidratante corporal
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/limpiador-facial-para-ninos"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::para ni&#241;os::limpiador facial&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::para ni&#241;os::limpiador facial&quot;}">
+                                Limpiador facial
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/hidratante-facial-para-ninos"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::para ni&#241;os::hidratante facial&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::para ni&#241;os::hidratante facial&quot;}">
+                                Hidratante facial
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/cuidado-de-los-labios-para-ninos"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::para ni&#241;os::cuidado para los labios&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::para ni&#241;os::cuidado para los labios&quot;}">
+                                Cuidado para los labios
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/ninos-agua-termal"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;buscar un producto::para ni&#241;os::agua termal&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;buscar un producto::para ni&#241;os::agua termal&quot;}">
+                                Agua termal
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+                </ul>
+        </section>
+
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 2,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <button @click="props.menuLevelOpen(2)"
+                @mouseover="props.menuLevelOpen(2)"
+                :aria-expanded="props.menuLevel2 === 2 ? 'true' : 'false'"
+                class="main-menu-nav__tab desktop-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas&quot;}">
+            <p>
+                Nuestras gamas
+            </p>
+        </button>
+        <button @click="props.menuLevelOpen(2)"
+                :aria-expanded="props.menuLevel2 === 2 ? 'true' : 'false'"
+                class="main-menu-nav__tab mobile-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas&quot;}">
+            <p>
+                Nuestras gamas
+            </p>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <section v-if="props.menuLevel2 === 2"
+                 aria-labelledby="unique-identifier-2"
+                 class="main-menu-nav__level-2-wrapper">
+            <div class="main-menu-nav__item-back-level-1">
+                <button @click="props.menuLevelOpen(0)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <div class="main-menu-nav__content">
+
+                    <a href="/event/effaclar-spotscan-plus" v-tag:useractionevent="{&quot;event&quot;:&quot;uaevent&quot;,&quot;ecommerce&quot;:&quot;undefined&quot;,&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::prueba spotscan+&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::prueba spotscan+&quot;}">
+                            <img class="image" src="/-/media/project/loreal/brand-sites/lrp/america/latam/simple-page/landing-page/spotscan/lrpspotscandesktopbanner1440x450matteogrimacewithlogoandqrcode.jpg" alt="">
+
+                        <p class="is-2" id="unique-identifier-2"></p>
+
+                        <div class="content">
+                            <p>SPOTSCAN+<br />
+PARA PIEL MIXTA A GRASA.<br />
+AN&Aacute;LISIS DE PIEL,<br />
+CO-CREADA CON DERMAT&Oacute;LOGOS,<br />
+POTENCIADO POR LA INTELIGENCIA ARTIFICIAL&nbsp;.</p>
+                        </div>
+                    </a>
+                    <div class="cta cta--light ">
+                        <a href="/event/effaclar-spotscan-plus" class="btn__wrapper"  v-tag:useractionevent="{&quot;event&quot;:&quot;uaevent&quot;,&quot;ecommerce&quot;:&quot;undefined&quot;,&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::prueba spotscan+&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::prueba spotscan+&quot;}">
+                            PRUEBA SPOTSCAN+
+                        </a>
+                    </div>
+
+            </div>
+
+            <button class="main-menu-nav__level--mobile-back" @click="props.menuLevelOpen(0)">
+
+                Nuestras gamas
+            </button>
+
+                <ul class="main-menu-nav__level-2 is-large is-col-3 has-only-links">
+
+
+<li class="main-menu-nav__item">
+    <a href="/anthelios"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::anthelios&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::anthelios&quot;}">
+        Anthelios
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/agua-micelar"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::aguas micelares&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::aguas micelares&quot;}">
+        Aguas micelares
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/agua-termal-de-la-roche-posay"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::agua termal&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::agua termal&quot;}">
+        Agua termal
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/cicaplast"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::cicaplast&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::cicaplast&quot;}">
+        Cicaplast
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/effaclar"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::effaclar&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::effaclar&quot;}">
+        Effaclar
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/hyalu-b5"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::hyalu b5&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::hyalu b5&quot;}">
+        Hyalu b5
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/lipikar"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::lipikar&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::lipikar&quot;}">
+        Lipikar
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/pigmentclar"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::pigmentclar&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::pigmentclar&quot;}">
+        Pigmentclar
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/retinol"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::retinol&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::retinol&quot;}">
+        Retinol
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/toleriane"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::toleriane&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::toleriane&quot;}">
+        Toleriane
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/vitamina-c"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestras gamas::vitamina c&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestras gamas::vitamina c&quot;}">
+        Vitamina C
+    </a>
+</li>
+                </ul>
+        </section>
+
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 3,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <a @click="props.menuLevelOpen(3)"
+           :aria-expanded="props.menuLevel2 === 3 ? 'true' : 'false'"
+           :class="{ 'false derm-scan': false }"
+           class="main-menu-nav__tab"
+           v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;an&#225;lisis de piel&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;an&#225;lisis de piel&quot;}"
+           href="/event/effaclar-spotscan-plus" class="push_cta_link">
+            <span class="main-menu-nav__icon">
+                <template v-if="false">
+                    <img>
+                </template>
+            </span>
+            <span>
+                ANÁLISIS DE PIEL
+            </span>
+        </a>
+
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 4,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <button @click="props.menuLevelOpen(4)"
+                @mouseover="props.menuLevelOpen(4)"
+                :aria-expanded="props.menuLevel2 === 4 ? 'true' : 'false'"
+                class="main-menu-nav__tab desktop-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto&quot;}">
+            <p>
+                CONSEJO EXPERTO
+            </p>
+        </button>
+        <button @click="props.menuLevelOpen(4)"
+                :aria-expanded="props.menuLevel2 === 4 ? 'true' : 'false'"
+                class="main-menu-nav__tab mobile-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto&quot;}">
+            <p>
+                CONSEJO EXPERTO
+            </p>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <section v-if="props.menuLevel2 === 4"
+                 aria-labelledby="unique-identifier-4"
+                 class="main-menu-nav__level-2-wrapper">
+            <div class="main-menu-nav__item-back-level-1">
+                <button @click="props.menuLevelOpen(0)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <div class="main-menu-nav__content">
+
+                    <p class="is-2" id="unique-identifier-4">
+
+                    </p>
+                    <div class="content">
+                        <p></p>
+                    </div>
+
+            </div>
+
+            <button class="main-menu-nav__level--mobile-back" @click="props.menuLevelOpen(0)">
+
+                CONSEJO EXPERTO
+            </button>
+
+                <ul class="main-menu-nav__level-2">
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 4 && props.menuLevel3 === 1 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(4, 1, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 4 && props.menuLevel3 === 1 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-imperfecciones&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-imperfecciones&quot;}">
+            Cuidado anti-imperfecciones
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 4 && props.menuLevel3 === 1 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(4)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(4)">
+                Cuidado anti-imperfecciones
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/granos-hormonales"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-imperfecciones::granos hormonales&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-imperfecciones::granos hormonales&quot;}">
+                                Granos hormonales
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/como-eliminar-el-sebo-en-la-cara"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-imperfecciones::eliminar el sebo en la cara&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-imperfecciones::eliminar el sebo en la cara&quot;}">
+                                Eliminar el sebo en la cara
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/como-hidratar-la-piel-grasa"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-imperfecciones::c&#243;mo hidratar la piel grasa: gu&#237;a completa&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-imperfecciones::c&#243;mo hidratar la piel grasa: gu&#237;a completa&quot;}">
+                                C&#243;mo hidratar la piel grasa: Gu&#237;a completa
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/piel-luminosa"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-imperfecciones::piel luminosa: gu&#237;a definitiva y consejos&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-imperfecciones::piel luminosa: gu&#237;a definitiva y consejos&quot;}">
+                                Piel Luminosa: Gu&#237;a Definitiva y Consejos
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/por-que-salen-granos-en-la-cara-en-adultos-"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-imperfecciones::por qu&#233; salen granos en la cara en adultos&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-imperfecciones::por qu&#233; salen granos en la cara en adultos&quot;}">
+                                Por qu&#233; salen granos en la cara en adultos
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 4 && props.menuLevel3 === 2 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(4, 2, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 4 && props.menuLevel3 === 2 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::protecci&#243;n solar&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::protecci&#243;n solar&quot;}">
+            Protecci&#243;n solar
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 4 && props.menuLevel3 === 2 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(4)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(4)">
+                Protecci&#243;n solar
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/como-quitar-manchas-arrugas-manos"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::protecci&#243;n solar::c&#243;mo quitar manchas y arrugas en las manos&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::protecci&#243;n solar::c&#243;mo quitar manchas y arrugas en las manos&quot;}">
+                                C&#243;mo quitar manchas y arrugas en las manos
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/manchas-sol-cara"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::protecci&#243;n solar::quitar las manchas de sol en la cara&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::protecci&#243;n solar::quitar las manchas de sol en la cara&quot;}">
+                                Quitar las manchas de sol en la cara
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/tipos-de-piel-proteccion-solar"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::protecci&#243;n solar::tipos de piel y manchas: tratamiento&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::protecci&#243;n solar::tipos de piel y manchas: tratamiento&quot;}">
+                                Tipos de Piel y Manchas: Tratamiento
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/tipos-de-piel-protector-solar"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::protecci&#243;n solar::protecci&#243;n solar seg&#250;n tipos de piel&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::protecci&#243;n solar::protecci&#243;n solar seg&#250;n tipos de piel&quot;}">
+                                Protecci&#243;n solar seg&#250;n tipos de piel
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 4 && props.menuLevel3 === 3 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(4, 3, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 4 && props.menuLevel3 === 3 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::diagn&#243;stico de piel&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::diagn&#243;stico de piel&quot;}">
+            Diagn&#243;stico de piel
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 4 && props.menuLevel3 === 3 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(4)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(4)">
+                Diagn&#243;stico de piel
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/dia-mundial-del-cancer"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::diagn&#243;stico de piel::dia mundial del cancer&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::diagn&#243;stico de piel::dia mundial del cancer&quot;}">
+                                Dia mundial del cancer
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/como-saber-que-tipo-de-piel-tengo"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::diagn&#243;stico de piel::&#191;c&#243;mo saber qu&#233; tipo de piel tengo? &quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::diagn&#243;stico de piel::&#191;c&#243;mo saber qu&#233; tipo de piel tengo? &quot;}">
+                                &#191;C&#243;mo saber qu&#233; tipo de piel tengo? 
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 4 && props.menuLevel3 === 4 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(4, 4, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 4 && props.menuLevel3 === 4 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-manchas&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-manchas&quot;}">
+            Cuidado anti-manchas
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 4 && props.menuLevel3 === 4 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(4)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(4)">
+                Cuidado anti-manchas
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/manchas-en-la-cara-por-embarazo"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-manchas::manchas en la cara por embarazo. c&#243;mo tratarlas en el postparto&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-manchas::manchas en la cara por embarazo. c&#243;mo tratarlas en el postparto&quot;}">
+                                Manchas en la cara por embarazo. C&#243;mo tratarlas en el postparto
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/manchas-en-el-cuello"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-manchas::manchas en el cuello: sol y envejecimiento&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-manchas::manchas en el cuello: sol y envejecimiento&quot;}">
+                                Manchas en el cuello: Sol y envejecimiento
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/manchas-oscuras-piel"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-manchas::gu&#237;a definitiva manchas oscuras en la piel&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-manchas::gu&#237;a definitiva manchas oscuras en la piel&quot;}">
+                                Gu&#237;a definitiva manchas oscuras en la piel
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/para-que-sirve-el-serum-de-vitamina-c"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-manchas::&#191;para qu&#233; sirve el s&#233;rum de vitamina c?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-manchas::&#191;para qu&#233; sirve el s&#233;rum de vitamina c?&quot;}">
+                                &#191;Para qu&#233; sirve el s&#233;rum de vitamina C?
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 4 && props.menuLevel3 === 5 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(4, 5, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 4 && props.menuLevel3 === 5 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-edad&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-edad&quot;}">
+            Cuidado anti-edad
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 4 && props.menuLevel3 === 5 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(4)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(4)">
+                Cuidado anti-edad
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/piel-luminosa"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-edad::piel luminosa: gu&#237;a definitiva y consejos&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-edad::piel luminosa: gu&#237;a definitiva y consejos&quot;}">
+                                Piel Luminosa: Gu&#237;a Definitiva y Consejos
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/piel-sensible-hidratacion-correcta"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;consejo experto::cuidado anti-edad::piel sensible como hidratarla correctamente&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;consejo experto::cuidado anti-edad::piel sensible como hidratarla correctamente&quot;}">
+                                Piel sensible como hidratarla correctamente
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+                </ul>
+        </section>
+
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 5,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <button @click="props.menuLevelOpen(5)"
+                @mouseover="props.menuLevelOpen(5)"
+                :aria-expanded="props.menuLevel2 === 5 ? 'true' : 'false'"
+                class="main-menu-nav__tab desktop-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;oncolog&amp;iacute;a&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;oncolog&amp;iacute;a&quot;}">
+            <p>
+                Oncolog&iacute;a
+
+            </p>
+        </button>
+        <button @click="props.menuLevelOpen(5)"
+                :aria-expanded="props.menuLevel2 === 5 ? 'true' : 'false'"
+                class="main-menu-nav__tab mobile-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;oncolog&amp;iacute;a&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;oncolog&amp;iacute;a&quot;}">
+            <p>
+                Oncolog&iacute;a
+
+            </p>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <section v-if="props.menuLevel2 === 5"
+                 aria-labelledby="unique-identifier-5"
+                 class="main-menu-nav__level-2-wrapper">
+            <div class="main-menu-nav__item-back-level-1">
+                <button @click="props.menuLevelOpen(0)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <div class="main-menu-nav__content">
+
+                        <img class="image" src="/-/media/project/loreal/brand-sites/lrp/america/latam/simple-page/landing-page/better-skin-throughout-cancer/laroche-posay-landingpage-oncology-1_banner.jpg" alt="laroche posay landingpage oncology 1_Banner">
+                    <p class="is-2" id="unique-identifier-5">
+
+                    </p>
+                    <div class="content">
+                        <p>UNA PIEL MEJOR<br />
+<strong>DURANTE EL&nbsp;C&Aacute;NCER</strong><br />
+juntos podemos&nbsp;hacer de<br />
+ma&ntilde;ana&nbsp;un mejor d&iacute;a<br /></p>
+                    </div>
+
+            </div>
+
+            <button class="main-menu-nav__level--mobile-back" @click="props.menuLevelOpen(0)">
+
+                Oncolog&iacute;a
+
+            </button>
+
+                <ul class="main-menu-nav__level-2 is-large is-col-3 has-only-links">
+
+
+<li class="main-menu-nav__item">
+    <a href="/event/piel-fuerte-durante-el-cancer"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;oncolog&amp;iacute;a\n::convivir con el c&#225;ncer&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;oncolog&amp;iacute;a\n::convivir con el c&#225;ncer&quot;}">
+        CONVIVIR CON EL C&#193;NCER
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/event/guia-auto-examen-cancer-de-piel"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;oncolog&amp;iacute;a\n::gu&#237;a auto-ex&#225;men c&#225;ncer de piel&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;oncolog&amp;iacute;a\n::gu&#237;a auto-ex&#225;men c&#225;ncer de piel&quot;}">
+        GU&#205;A AUTO-EX&#193;MEN C&#193;NCER DE PIEL
+    </a>
+</li>
+                </ul>
+        </section>
+
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 6,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <button @click="props.menuLevelOpen(6)"
+                @mouseover="props.menuLevelOpen(6)"
+                :aria-expanded="props.menuLevel2 === 6 ? 'true' : 'false'"
+                class="main-menu-nav__tab desktop-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestros compromisos&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestros compromisos&quot;}">
+            <p>
+                Nuestros compromisos
+            </p>
+        </button>
+        <button @click="props.menuLevelOpen(6)"
+                :aria-expanded="props.menuLevel2 === 6 ? 'true' : 'false'"
+                class="main-menu-nav__tab mobile-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestros compromisos&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestros compromisos&quot;}">
+            <p>
+                Nuestros compromisos
+            </p>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <section v-if="props.menuLevel2 === 6"
+                 aria-labelledby="unique-identifier-6"
+                 class="main-menu-nav__level-2-wrapper">
+            <div class="main-menu-nav__item-back-level-1">
+                <button @click="props.menuLevelOpen(0)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <div class="main-menu-nav__content">
+
+                        <img class="image" src="/-/media/project/loreal/brand-sites/lrp/america/latam/homepage/img005.jpg" alt="mujer de perfil">
+                    <p class="is-2" id="unique-identifier-6">
+
+                    </p>
+                    <div class="content">
+                        <p>Recomendados por más de 90 000 dermatólogos de todo el mundo, nos comprometemos a ayudarte a ti y a tus seres queridos a mejorar la salud de tu piel y la calidad de vida. </p>
+                    </div>
+
+            </div>
+
+            <button class="main-menu-nav__level--mobile-back" @click="props.menuLevelOpen(0)">
+
+                Nuestros compromisos
+            </button>
+
+                <ul class="main-menu-nav__level-2">
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 6 && props.menuLevel3 === 1 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(6, 1, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 6 && props.menuLevel3 === 1 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestros compromisos::nuestras iniciativas sociales&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestros compromisos::nuestras iniciativas sociales&quot;}">
+            Nuestras iniciativas sociales
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 6 && props.menuLevel3 === 1 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(6)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(6)">
+                Nuestras iniciativas sociales
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/event/salva-tu-piel"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestros compromisos::nuestras iniciativas sociales::salva tu piel&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestros compromisos::nuestras iniciativas sociales::salva tu piel&quot;}">
+                                SALVA TU PIEL
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/event/when-we-look-at-skin-we-see-people"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestros compromisos::nuestras iniciativas sociales::cuando miramos la piel vemos personas&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestros compromisos::nuestras iniciativas sociales::cuando miramos la piel vemos personas&quot;}">
+                                CUANDO MIRAMOS LA PIEL VEMOS PERSONAS
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 6 && props.menuLevel3 === 2 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(6, 2, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 6 && props.menuLevel3 === 2 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nuestros compromisos::nuestras innovaciones&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nuestros compromisos::nuestras innovaciones&quot;}">
+            Nuestras innovaciones
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 6 && props.menuLevel3 === 2 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(6)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Volver</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(6)">
+                Nuestras innovaciones
+                <span class="is-hidden">Volver</span>
+            </button>
+            <ul>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 6 && props.menuLevel3 === 3 }"
+    class="main-menu-nav__item">
+
+        <a href="/event/life-changer" :class="{ 'is-hidden-mobile': props.menuLevel3 }" v-tag:useractionevent="{&quot;label&quot;:&quot;NUESTROS LIFE-CHANGERS&quot;,&quot;productid&quot;:null,&quot;action&quot;:&quot;select::header&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;dimension49&quot;:null,&quot;dimension91&quot;:null,&quot;dimension59&quot;:null,&quot;ecommerce&quot;:null,&quot;event&quot;:null,&quot;event_name&quot;:null,&quot;cta_name&quot;:null,&quot;module_name&quot;:null,&quot;link_url&quot;:null,&quot;product_label&quot;:null,&quot;product_franchise&quot;:null,&quot;product_quality_range&quot;:null}">
+            NUESTROS LIFE-CHANGERS
+        </a>
+</li>
+                </ul>
+        </section>
+
+</li>
+            </ul>
+
+</template>
+
+
+
+        </main-menu>
+        <div>
+            
+        </div>
+
+    </div>
+</div>
+
+
+    </div>
+</header>
+
+            
+
+
+
+            <main role="main" id="main" class=" ">
+                <a id="main-content" tabindex="-1"></a>
+                <div id="content">
+                    <div class="main-top">
+
+
+<div class="container--grey-light breadcrumb-main" class="component LrpNavigation">
+    <div class="component-content" id="breadcrumb" itemprop="breadcrumb">
+        <nav role="navigation" aria-label="breadcrumb">
+            <ol class="breadcrumb" itemprop="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+
+                    <li class="breadcrumb__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+
+
+                        <a itemprop="item" href="/" class="breadcrumb__link" v-tag:useractionevent="{&quot;action&quot;:&quot;select::breadcrumb&quot;,&quot;category&quot;:&quot;header&quot;,&quot;label&quot;:&quot;Inicio&quot;}">
+                            <span itemprop="name">Inicio</span>
+                        </a>
+                        <meta itemprop="position" content="1"/>
+                    </li>
+                <li class="breadcrumb__item" aria-current="page">
+                    <span>404</span>
+                </li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+                    </div>
+                    
+<div class="container">
+    
+<generic-banner :is-rtl="false" :initial-data="{&quot;DesktopTitle&quot;:&quot;&lt;b&gt;&#161;Uy! &#161;Parece que falta algo aqu&#237; &lt;/b&gt;y por una vez la dermatolog&#237;a no puede ayudarnos!&quot;,&quot;DesktopText&quot;:&quot;&lt;h2&gt;&lt;strong&gt;ERROR 404&lt;/strong&gt;&lt;/h2&gt;\nRegresa a la p&#225;gina de inicio para explorar nuestros productos dermatol&#243;gicos para el cuidado de la piel.&quot;,&quot;DesktopCTALabel&quot;:&quot;VOLVER AL INICIO&quot;,&quot;DesktopCTALink&quot;:&quot;/&quot;,&quot;DesktopImage&quot;:&quot;/-/media/project/loreal/brand-sites/lrp/america/latam/ingredients/larocheposay-rangepage-eczema-ingredients-sprite-backgroundjpeg.png&quot;,&quot;EnableMobileVersion&quot;:false,&quot;MobileTitle&quot;:&quot;&quot;,&quot;MobileText&quot;:&quot;&quot;,&quot;MobileCTALabel&quot;:&quot;&quot;,&quot;MobileCTALink&quot;:null,&quot;MobileImage&quot;:&quot;&quot;,&quot;PresentationOption&quot;:&quot;Option5&quot;,&quot;TextpositiononImage&quot;:&quot;Left&quot;,&quot;TitleAtHnTag&quot;:&quot;NotSelected&quot;,&quot;TitleFontSize&quot;:&quot;NotSelected&quot;,&quot;WhiteColorOption&quot;:false,&quot;AddTopAndBottomMargins&quot;:false,&quot;RemoveTopMargin&quot;:false,&quot;GradientEnabled&quot;:false,&quot;ImageWidth&quot;:&quot;&quot;,&quot;EnableDSFService&quot;:false,&quot;DSFApplication&quot;:&quot;&quot;,&quot;EnableMultipurposePopin&quot;:false,&quot;EnableNewsletterPopin&quot;:false,&quot;PopinTaggingAttributes&quot;:{},&quot;EnableVideo&quot;:false,&quot;EnableAutoPlay&quot;:false,&quot;YoutubURL&quot;:&quot;&quot;,&quot;VideoCoverImage&quot;:null,&quot;TopMargin28px&quot;:false,&quot;BottomMargin28px&quot;:false,&quot;MobileImageAlt&quot;:&quot;&quot;,&quot;DesktopFocusX&quot;:&quot;0&quot;,&quot;DesktopFocusY&quot;:&quot;0&quot;,&quot;New_Image&quot;:&quot;/-/media/project/loreal/brand-sites/lrp/america/latam/ingredients/larocheposay-rangepage-eczema-ingredients-sprite-backgroundjpeg.png&quot;,&quot;New_ImageAlt&quot;:&quot;Larocheposay RangePage Eczema ingredients sprite backgroundjpeg&quot;,&quot;MobileFocusX&quot;:&quot;&quot;,&quot;MobileFocusY&quot;:&quot;&quot;,&quot;EnableRoutineFinder&quot;:false,&quot;EnableBannerClick&quot;:false,&quot;EnableShutter&quot;:false}" :dsf-data="{&quot;Tenant&quot;:&quot;&quot;,&quot;Application&quot;:null,&quot;Customer&quot;:&quot;&quot;,&quot;Country&quot;:&quot;&quot;,&quot;Environment&quot;:&quot;&quot;,&quot;Touchpoint&quot;:&quot;&quot;,&quot;Type&quot;:&quot;&quot;,&quot;Loadingmessage&quot;:&quot;&quot;,&quot;Loadingbackgroundcolor&quot;:&quot;&quot;,&quot;CSRFToken&quot;:&quot;&quot;,&quot;Switchecom&quot;:&quot;false&quot;,&quot;Switchautostart&quot;:&quot;false&quot;,&quot;EventName&quot;:null,&quot;EventProperties&quot;:{}}" :dsf-tagging="{}" dsf-page-category="error page" cta-class="cta cta--light"
+                :btn-tagging="{action: 'select::banner', eventname: 'uaevent', ecommerce: 'undefined', category: 'error page', desktoplabel: 'volver al inicio::/', mobilelabel: ''}">
+</generic-banner>
+<div class="jump-to-content" data-target="404" data-title="404">
+    <div class="component GenericBanner">
+        <div class="component-content">
+
+        </div>
+    </div>
+</div>
+
+</div>
+
+                    <div>
+                        
+    <!-- Dynamic links component rendered without data -->
+
+                    </div>
+                </div>
+                <product-popin legend-current-volume="legend-volume current-volume"></product-popin>
+            </main>
+
+            
+        <footer-banner :initial-data="{&quot;Title&quot;:&quot;&lt;h2 id=\&quot;we-are-recommended-by-over-dermatologists-worldwide\&quot; tabindex=\&quot;-1\&quot; class=\&quot;heading heading--anchor\&quot;&gt;&lt;strong&gt;M&#193;S DE 90&amp;nbsp;000&amp;nbsp;DERMAT&#211;LOGOS&lt;br /&gt;DE TODO EL MUNDO&lt;br /&gt;&lt;/strong&gt;NOS RECOMIENDAN&lt;/h2&gt;&quot;,&quot;Image&quot;:&quot;/-/media/project/loreal/brand-sites/lrp/america/new-footer-banner/desktop-footer-banner.png&quot;,&quot;ImageAlt&quot;:&quot;DesktopFooter&quot;,&quot;MobileImage&quot;:&quot;/-/media/project/loreal/brand-sites/lrp/america/new-footer-banner/mobile-footer-banner.png&quot;,&quot;MobileImageAlt&quot;:&quot;MobileFooter&quot;}"> </footer-banner>
+
+<div>
+    <div class="component-content">
+        <footer class="footer" role="contentinfo">
+            <div class="footer__content container--is-maxwidth">
+                <section class="footer__item footer__item--left">
+                    
+
+
+<ul class="footer__list">
+
+        <li class="link-list__item">
+                            <a href="/accessibility-statement" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;declaraci&#243;n de accesibilidad&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;declaraci&#243;n de accesibilidad&quot;}">
+                                Declaraci&#243;n de accesibilidad
+                            </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/subscripcion-al-boletin" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;bolet&#237;n informativo&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;bolet&#237;n informativo&quot;}">
+                                BOLET&#205;N INFORMATIVO
+                            </a>
+        </li>
+        <li class="link-list__item">
+                        <a href="https://dispatch.laroche-posay.com/"  target="_blank" class="link-list__link" aria-label="P&#193;GINA DE ENV&#205;O (new window)" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;p&#225;gina de env&#237;o&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;p&#225;gina de env&#237;o&quot;}">
+                            P&#193;GINA DE ENV&#205;O
+                        </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/event/politica-de-privacidad" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;pol&#237;tica de privacidad&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;pol&#237;tica de privacidad&quot;}">
+                                POL&#205;TICA DE PRIVACIDAD
+                            </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/event/terminos-y-condiciones" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;términos y condiciones&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;términos y condiciones&quot;}">
+                                Términos y Condiciones
+                            </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/mapa-del-sitio" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;mapa del sitio&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;mapa del sitio&quot;}">
+                                MAPA DEL SITIO
+                            </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="#" class="link-list__link optanon-toggle-display" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;configuraci&#243;n de cookies&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;configuraci&#243;n de cookies&quot;}">
+                                Configuraci&#243;n de cookies
+                            </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/event/politica-de-cookies" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;pol&#237;tica de cookies&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;pol&#237;tica de cookies&quot;}">
+                                POL&#205;TICA DE COOKIES
+                            </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/event/politica-de-cookies" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;pol&#237;tica de cookies&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;pol&#237;tica de cookies&quot;}">
+                                POL&#205;TICA DE COOKIES
+                            </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/cdn-cgi/l/email-protection#d9b8adba99b5b6abbcb8b5f7bab6b4f7bab6" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;servicio al cliente&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;servicio al cliente&quot;}">
+                                SERVICIO AL CLIENTE
+                            </a>
+        </li>
+        <li class="link-list__item">
+                        <a href="https://www.childhood-cancer-support.com/"  target="_blank" class="link-list__link" aria-label="Foundation La Roche-Posay (new window)" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;foundation la roche-posay&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;foundation la roche-posay&quot;}">
+                            Foundation La Roche-Posay
+                        </a>
+        </li>
+</ul>
+
+                </section>
+                <section class="footer__item footer__item--middle" aria-labelledby="social-media-section">
+                    
+
+<ul class="social-links footer__social">
+            <li class="social-list__item">
+                
+<a href="https://www.youtube.com/channel/UCXbWa9Q6OK89Kc7PZEBn23Q/videos" target="_blank" class="social-list__link" aria-label="Follow us on YouTube (new window)" v-tag:socialactionevent.click="{socialNetwork: 'YouTube', socialTarget: 'https://www.youtube.com/channel/UCXbWa9Q6OK89Kc7PZEBn23Q/videos'}">
+            <img src="/-/media/project/loreal/brand-sites/lrp/america/new-footer-icons/youtube.png?h=71&amp;w=71&amp;la=es-CO&amp;hash=EC3600F023756A5C348BFC5393CE23E5" loading="lazy" alt="YouTube" />
+        </a>
+
+            </li>
+            <li class="social-list__item">
+                
+<a href="https://www.facebook.com/LaRochePosayCOL" target="_blank" class="social-list__link" aria-label="Follow us on facebook (new window)" v-tag:socialactionevent.click="{socialNetwork: 'Facebook', socialTarget: 'https://www.facebook.com/LaRochePosayCOL'}">
+            <img src="/-/media/project/loreal/brand-sites/lrp/america/new-footer-icons/fb.png?h=71&amp;w=71&amp;la=es-CO&amp;hash=93AB8D2A9CD769F1B9BBBB8E846B71F9" loading="lazy" alt="" />
+        </a>
+
+            </li>
+            <li class="social-list__item">
+                
+<a href="https://www.instagram.com/larocheposay/" target="" class="social-list__link" aria-label="Follow us on  (new window)" v-tag:socialactionevent.click="{socialNetwork: 'Instagram', socialTarget: 'https://www.instagram.com/larocheposay/'}">
+            <img src="/-/media/project/loreal/brand-sites/lrp/america/new-footer-icons/insta.png?h=71&amp;w=71&amp;la=es-CO&amp;hash=A5435BF96DBB89F8450793BB894AE42B" loading="lazy" alt="Instagram" />
+        </a>
+
+            </li>
+
+</ul>
+        <p class="footer__disclaimer">
+            &nbsp;
+        </p>
+
+
+
+
+
+
+                </section>
+                <section class="footer__item footer__item--right">
+                    <div class="footer__copyright">
+                        
+
+    <div class="jump-to-content" data-target="Footer-Copyright" data-title="Footer Copyright">
+        <div class="component rich-text container--is-fullwidth ">
+            <div class="component-content container--is-maxwidth container--padded-hor">
+<p>&copy; La Roche-Posay<br />&copy;
+ Centro Termal de La Roche-Posay<br />&copy;
+ Getty Images<br />&copy;
+ Thinkstock<br />&copy;
+ L'OREAL</p>            </div>
+        </div>
+    </div>
+
+
+                    </div>
+                </section>
+            </div>
+        </footer>
+    </div>
+</div>
+
+
+        <whatsapp title="Whatsapp"
+                  link="https://api.whatsapp.com/send?phone=573222484898&amp;?utm_source=web_lrp&amp;utm_medium=wa_btn573222484898 &amp;Text="
+                  default-src="/-/media/project/loreal/brand-sites/lrp/shared/baseline/messenger-integration/whatsappicon.svg"
+                  hover-src="/-/media/project/loreal/brand-sites/lrp/shared/baseline/messenger-integration/whatsappiconhover.svg"
+                  close-icon="/-/media/project/loreal/brand-sites/lrp/shared/baseline/messenger-integration/close_desktop.svg"
+                  close-icon-mobile="/-/media/project/loreal/brand-sites/lrp/shared/baseline/messenger-integration/close_mobile.svg"
+                  :tagging-country="false">
+        </whatsapp>
+
+            <!-- need for PWA, adding site to homescreen
+            <notification close-aria-label="close modal">
+                add LRP to homescreen
+            </notification>
+            <fractal-devbar lang="fr"></fractal-devbar> -->
+        </div>
+        
+
+
+
+                                <!-- /#wrapper -->
+        
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a06e5da8cb807e1a',t:'MTc4MDY1Mzk5OQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

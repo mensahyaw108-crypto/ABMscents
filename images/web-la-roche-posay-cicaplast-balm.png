@@ -1,0 +1,2371 @@
+ 
+ 
+ 
+ 
+<!DOCTYPE html>
+<html class="no-js no-touch" lang="pl-PL">
+<head>
+    
+
+
+<!-- OneTrust Cookies Consent Notice start for laroche-posay.pl -->
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="9401d521-222b-4e5d-bbd5-3a7ff6b71fa6" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for laroche-posay.pl -->
+
+    <meta charset="utf-8" />
+    <meta data-octopus-release="3.52.0-release00000003" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#009ee2" />
+    
+
+
+<link rel="manifest" href="/frontend/master/manifest.json">
+
+
+<link rel="preconnect" href="https://www.googletagmanager.com" />
+<link rel="preconnect" href="https://code.jquery.com" />
+
+
+<link rel="preload" href="/frontend/master/css/all.cfb8eb54.css" as="style" />
+
+<link rel="stylesheet" type="text/css" href="/frontend/master/css/all.cfb8eb54.css" />
+
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery-3.4.1.min.js"></script>
+<script async  type="text/javascript" src="/frontend/master/js/jsfocuspoint.js"></script>
+
+
+<link rel="preload" href="/frontend/zone/css/all.68ffcbba.css" as="style" />
+<link rel="preload" href="/frontend/zone/js/npm.core-js.7afa1e57.js" as="script" />
+ <link rel="preload" href="/frontend/zone/js/npm.vuelidate.3969d3ad.js" as="script" />
+ <link rel="preload" href="/frontend/zone/js/npm.vue.90563555.js" as="script" />
+ <link rel="preload" href="/frontend/zone/js/all.afdc44ea.js" as="script" />
+
+
+<link rel="stylesheet" type="text/css" href="/frontend/zone/css/all.68ffcbba.css" />
+
+
+<script defer type="text/javascript" src="/frontend/zone/js/npm.core-js.7afa1e57.js"></script>
+ 
+<script defer type="text/javascript" src="/frontend/zone/js/npm.vuelidate.3969d3ad.js"></script>
+ 
+<script defer type="text/javascript" src="/frontend/zone/js/npm.vue.90563555.js"></script>
+ 
+<script defer type="text/javascript" src="/frontend/zone/js/all.afdc44ea.js"></script>
+
+
+<link rel="preload" href="/frontend/master/js/npm.core-js.17961292.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.axios.adf572dd.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vuelidate.3c0e8eef.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue-awesome-swiper.31c6d70b.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.swiper.76e7c97f.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue.061781c4.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vuex.7dd44b4c.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue-star-rating.3cc6361c.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue-slick-carousel.77ac86a1.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue-slick-carousel-rtl.d4485e23.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.vue-cookie.fa7302ac.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.tiny-cookie.d47a4ad7.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.ssr-window.7510b4ae.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.register-service-worker.afefbcbb.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.dom7.c9a95756.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.aos.7ee88bea.js" as="script" />
+<link rel="preload" href="/frontend/master/js/npm.loreal.703b6aa1.js" as="script" />
+<link rel="preload" href="/frontend/master/js/all.50e0d8a0.js" as="script" />
+
+<script defer type="text/javascript" src="/frontend/master/js/npm.core-js.17961292.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.axios.adf572dd.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vuelidate.3c0e8eef.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue-awesome-swiper.31c6d70b.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.swiper.76e7c97f.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue.061781c4.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vuex.7dd44b4c.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue-star-rating.3cc6361c.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue-slick-carousel.77ac86a1.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue-slick-carousel-rtl.d4485e23.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.vue-cookie.fa7302ac.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.tiny-cookie.d47a4ad7.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.ssr-window.7510b4ae.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.register-service-worker.afefbcbb.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.dom7.c9a95756.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.aos.7ee88bea.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/npm.loreal.703b6aa1.js"></script>
+<script defer type="text/javascript" src="/frontend/master/js/all.50e0d8a0.js"></script>
+
+
+    <!--To call respective googleAPI font-family  -->
+
+    <!-- Hidden vue components -->
+    <style>
+        [v-cloak] {
+            display: none
+        }
+    </style>
+    <!--raw values of the body with font names-->
+
+    
+<script>
+    var dataLayer = window["dataLayer"] || [];
+    if (!window.wsf) { window.wsf = { AnalyticsVariables: {} }; }
+    window.wsf.AnalyticsVariables = {"language":"pl","country":"PL","siteTypeLevel":"main","brand":"LRP","masterVersion":"3.2","factory":"WSF","website_type":"NON-DTC","dynamic":{"currency":"eur"},"breadCrumb":"strona glowna > error handling > 404"};
+</script>
+
+<script>
+    if (!window.wsf) { window.wsf = { AnalyticsVariables: {} }; }
+window.wsf.AnalyticsVariables.pageCategory = "error page";
+
+window.wsf.AnalyticsVariables.uiLoggedStatus = "not logged";
+window.wsf.AnalyticsVariables.newsletterSubscription = false;
+    
+    var dynamicProps = window.wsf.AnalyticsVariables.dynamic;
+    delete window.wsf.AnalyticsVariables.dynamic;
+    dataLayer.push(window.wsf.AnalyticsVariables);
+
+    window.wsf.AnalyticsVariablesDynamic = dynamicProps;
+</script>
+
+
+
+
+
+<script type="text/javascript">
+        if (typeof(OptanonWrapper) === 'function') {
+            window.gtmLoaded = false;
+            function OptanonWrapper() {
+                if (!window.gtmLoaded) {
+                    window.gtmLoaded = true;
+                        (function(w, d, s, l, i) {
+                        w[l] = w[l] || [];
+                        w[l].push({
+                            'gtm.start': new Date().getTime(),
+                            event: 'gtm.js'
+                        });
+                        var f = d.getElementsByTagName(s)[0],
+                            j = d.createElement(s),
+                            dl = l != 'dataLayer' ? '&l=' + l : '';
+                        j.async = true;
+                        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                        f.parentNode.insertBefore(j, f);
+                    })(window, document, 'script', 'dataLayer', 'GTM-NXZJC5');
+                }
+            }
+               
+            setTimeout(() => {
+                if (!window.gtmLoaded) {
+                    OptanonWrapper()
+                }
+            }, 1000);
+        } else {
+            function gtmManager() {}
+            (function(w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-NXZJC5');
+        }
+</script>
+
+
+<meta name="google-site-verification" content="UA-12791073-1"/>
+
+
+
+
+    <link href="/-/media/project/loreal/brand-sites/lrp/shared/baseline/identity/favicon.png" rel="shortcut icon" />
+
+
+<link rel="canonical" href="https://www.laroche-posay.pl/error-handling/404"/>
+
+
+    <link rel="alternate" hreflang="vi-vn" href="https://www.larocheposay.vn/error-handling/404">
+    <link rel="alternate" hreflang="id-id" href="https://www.larocheposay.co.id/error-handling/404">
+    <link rel="alternate" hreflang="en-sg" href="https://www.laroche-posay.sg/error-handling/404">
+    <link rel="alternate" hreflang="en-au" href="https://www.laroche-posay.com.au/error-handling/404">
+    <link rel="alternate" hreflang="th-th" href="https://www.larocheposay-th.com/error-handling/404">
+    <link rel="alternate" hreflang="en-my" href="https://www.laroche-posay.com.my/error-handling/404">
+    <link rel="alternate" hreflang="el-gr" href="https://www.larocheposay.gr/error-handling/404">
+    <link rel="alternate" hreflang="uk-ua" href="https://www.laroche-posay.ua/error-handling/404">
+    <link rel="alternate" hreflang="ru-ua" href="https://www.laroche-posay.ua//error-handling/404">
+    <link rel="alternate" hreflang="ro-ro" href="https://www.laroche-posay.ro/error-handling/404">
+    <link rel="alternate" hreflang="tr-tr" href="https://prd-cd-lrp-eu-tr.laroche-posay.com.tr/error-handling/404">
+    <link rel="alternate" hreflang="it-it" href="https://www.larocheposay.it/error-handling/404">
+    <link rel="alternate" hreflang="pt-pt" href="https://www.laroche-posay.pt/error-handling/404">
+    <link rel="alternate" hreflang="es-es" href="https://www.laroche-posay.es/error-handling/404">
+    <link rel="alternate" hreflang="nl-nl" href="https://www.laroche-posay.nl/error-handling/404">
+    <link rel="alternate" hreflang="en" href="https://www.laroche-posay.com/error-handling/404">
+    <link rel="alternate" hreflang="de-de" href="https://www.larocheposay.de/error-handling/404">
+    <link rel="alternate" hreflang="pt-br" href="https://prd-cd-02-lrp-us-br.laroche-posay.com.br/error-handling/404">
+    <link rel="alternate" hreflang="hr-hr" href="https://www.laroche-posay.com.hr/error-handling/404">
+    <link rel="alternate" hreflang="sr-latn-rs" href="https://www.laroche-posay.rs/error-handling/404">
+    <link rel="alternate" hreflang="sl-si" href="https://www.laroche-posay.si/error-handling/404">
+    <link rel="alternate" hreflang="bg-bg" href="https://www.laroche-posay.bg/error-handling/404">
+    <link rel="alternate" hreflang="cs-cz" href="https://www.laroche-posay.cz/error-handling/404">
+    <link rel="alternate" hreflang="sk-sk" href="https://www.laroche-posay.sk/error-handling/404">
+    <link rel="alternate" hreflang="hu-hu" href="https://www.larocheposay.hu/error-handling/404">
+    <link rel="alternate" hreflang="he-il" href="https://www.laroche-posay.co.il/error-handling/404">
+
+
+    <title></title>
+    <meta name="description"/>
+    <meta name="keywords"/>
+    <meta property="og:title" content=""/>
+    <meta property="og:description" content=""/>
+    <meta name="twitter:title" content=""/>
+    <meta name="twitter:description" content=""/>
+
+
+
+
+
+    
+
+    <script type="application/json" id="refapp-global-tagging-configuration">
+    {
+        "globalVars": {
+                         "[page category]": "error page"
+                      }
+    }
+    </script>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="home-page-transparancy-slider  PL" class="default-device bodyclass">
+        <a href="#main-content" class="skipto">
+            <span class="skipto__text">
+                Przejdź do zawartości
+            </span>
+        </a>
+
+
+    <script>
+        var html = document.querySelector('html');
+        html.classList.remove('no-js');
+        if (('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
+            html.classList.remove('no-touch');
+            html.classList.add('has-touch');
+        }
+        let popupStatePushed = false;
+        document.addEventListener("DOMContentLoaded", (event) => {
+            if (window.wsf.AnalyticsVariables) {
+                window.wsf.pageCategory = window.wsf.AnalyticsVariables.pageCategory;
+            }
+            const shutterButtons = document.querySelectorAll('.shutter-btn');
+            shutterButtons.forEach(button => {
+                button.addEventListener('click', function (event) {
+                    event.preventDefault();
+                    document.getElementById('loader').style.display = 'block';
+                    document.getElementById('popupFrame').src = event.currentTarget.href;
+                    document.getElementById('popup').style.display = 'block';
+                    document.querySelector('.shutterpage-overlay').style.display = 'block';
+                    document.body.classList.add('multipopin-open');
+                    setTimeout(() => {
+                        document.querySelector(".btn-close").focus();
+                    }, 300);
+                    document.getElementById('popupFrame').style.display = 'none';
+                });
+            });
+            const overlayBtn = document.querySelector('.shutterpage-overlay');
+            overlayBtn.addEventListener('click', function () {
+                closePopup();
+            });
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape') {
+                    closePopup();
+                }
+            });
+            // Detect browser back button click
+            window.addEventListener('popstate', function (event) {
+                const popup = document.getElementById('popup');
+                if (popup) {
+                    const popupStyle = window.getComputedStyle(popup);
+                    if (popupStyle.display === 'block') {
+                        // Reset flag before closing since state was already popped
+                        popupStatePushed = false;
+                        // Stop YouTube videos before closing
+                        const popupFrame = document.getElementById('popupFrame');
+                        if (popupFrame) {
+                            try {
+                                if (popupFrame.contentWindow) {
+                                    popupFrame.contentWindow.postMessage('{"event":"command","func":"stopVideo","args":""}', '*');
+                                    popupFrame.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+                                }
+                            } catch (e) {
+                                // Ignore errors
+                            }
+                            popupFrame.src = 'about:blank';
+                        }
+                        // Close popup without modifying history (already popped)
+                        document.getElementById('popup').style.display = 'none';
+                        document.querySelector('.shutterpage-overlay').style.display = 'none';
+                        document.body.classList.remove('multipopin-open');
+                    }
+                }
+            });
+            window.addEventListener('pageshow', function (event) {
+                if (event.persisted) {
+                    const popup = document.getElementById('popup');
+                    if (popup) {
+                        const popupStyle = window.getComputedStyle(popup);
+                        if (popupStyle.display === 'block') {
+                            // Reset flag before closing since state was already popped
+                            popupStatePushed = false;
+                            // Stop YouTube videos before closing
+                            const popupFrame = document.getElementById('popupFrame');
+                            if (popupFrame) {
+                                try {
+                                    if (popupFrame.contentWindow) {
+                                        popupFrame.contentWindow.postMessage('{"event":"command","func":"stopVideo","args":""}', '*');
+                                        popupFrame.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+                                    }
+                                } catch (e) {
+                                    // Ignore errors
+                                }
+                                popupFrame.src = 'about:blank';
+                            }
+                            // Close popup without modifying history (already popped)
+                            document.getElementById('popup').style.display = 'none';
+                            document.querySelector('.shutterpage-overlay').style.display = 'none';
+                            document.body.classList.remove('multipopin-open');
+                        }
+                    }
+                }
+            });
+        });
+
+
+
+        function closePopup() {
+            const popup = document.getElementById('popup');
+            if (popup && popup.style.display === 'block') {
+                // Clean up history state if it was pushed
+                if (popupStatePushed && window.history && window.history.replaceState) {
+                    window.history.replaceState({}, '', window.location.pathname);
+                    popupStatePushed = false;
+                }
+            }
+
+            // Stop YouTube videos in the iframe
+            const popupFrame = document.getElementById('popupFrame');
+            if (popupFrame) {
+                try {
+                    // Try to access iframe content (may fail due to CORS)
+                    const iframeDoc = popupFrame.contentDocument || popupFrame.contentWindow.document;
+                    const iframeWindow = popupFrame.contentWindow;
+
+                    // Stop YouTube API players if they exist
+                    if (iframeWindow && typeof iframeWindow.YT !== 'undefined') {
+                        // Find all YouTube players in the iframe
+                        const players = iframeWindow.YT.getPlayers ? Object.values(iframeWindow.YT.getPlayers()) : [];
+                        players.forEach(player => {
+                            try {
+                                if (player && typeof player.stopVideo === 'function') {
+                                    player.stopVideo();
+                                }
+                            } catch (e) {
+                                // Ignore errors
+                            }
+                        });
+                    }
+
+                    // Try to stop videos via postMessage (for YouTube embeds)
+                    if (iframeWindow) {
+                        try {
+                            // Stop video via postMessage
+                            popupFrame.contentWindow.postMessage('{"event":"command","func":"stopVideo","args":""}', '*');
+                            popupFrame.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+                        } catch (e) {
+                            // Ignore errors
+                        }
+                    }
+                } catch (e) {
+                    // CORS error - can't access iframe content, but we can still clear src
+                }
+
+                // Clear iframe src to stop video from loading/playing
+                // This is the most reliable way to stop videos
+                popupFrame.src = 'about:blank';
+            }
+
+            document.getElementById('popup').style.display = 'none';
+            document.querySelector('.shutterpage-overlay').style.display = 'none';
+            document.body.classList.remove('multipopin-open');
+        }
+
+        function iframeLoaded() {
+            document.getElementById('loader').style.display = 'none';
+            document.getElementById('popupFrame').style.display = 'block';
+            const iframe = document.getElementById('popupFrame');
+            const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+
+            // Hide elements inside iframe
+            iframeDoc.querySelector('header')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('footer')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('.footer-banner')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('.newsletter-sticky')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('.multipopin')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('#onetrust-banner-sdk')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('#refapp-user-redirect-popup-example')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('.without-shutter')?.style.setProperty('display', 'none', 'important');
+            iframeDoc.querySelector('#content')?.style.setProperty('margin-top', '0', 'important');
+            iframeDoc.querySelectorAll('a').forEach(link => {
+                link.addEventListener('click', function (event) {
+                    event.preventDefault(); // stop normal link behavior
+                    window.top.location.href = this.href; // redirect at browser level
+                });
+            });
+            iframeDoc.addEventListener('scroll', () => {
+                setTimeout(() => {
+                    iframeDoc.querySelector('.show-newsletter-sticky')?.closest('#content').style.setProperty('margin-top', '0', 'important');
+                }, 300);
+            });
+        }
+    </script>
+    <div class="shutterpage-overlay"></div>
+    <div id="popup" class="shutter_popup" style="display:none;" role="dialog" aria-modal="true" aria-label="shutterPopup">
+        <button type="button" onclick="closePopup()" class="btn-close">
+            <svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M20.4233 4.42383L12.8472 12L20.4233 19.5762L19.5757 20.4238L11.9995 12.8477L4.42334 20.4238L3.57568 19.5762L11.1519 12L3.57568 4.42383L4.42334 3.57617L11.9995 11.1523L19.5757 3.57617L20.4233 4.42383Z" fill="black" />
+            </svg>
+            <span class="sr-only">Close</span>
+        </button>
+        <div id="loader"
+             style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);
+              font-family:sans-serif;">Loading...</div>
+            <iframe id="popupFrame" width="800" height="500" title="popup-frame" onload="iframeLoaded()"></iframe>
+        </div>
+
+        <div id="main-container" v-no-js-handler>
+
+            
+            
+<header class="header" role="banner">
+    <div class="header__wrapper">
+        
+            <div slot="mainMenuBarLogo" class="main-menu-bar__logo-wrapper">
+                <a href="/" class="main-menu-bar__logo" itemprop="url" aria-label="La Roche Posay, laboratorium dermatologiczne (wr&#243;ć do strony gł&#243;wnej)" v-tag:useractionevent="{label: 'logo', category: 'main menu navigation', action: 'select::header',event_name: 'logo_click' }">
+                    <img src="/-/media/project/loreal/brand-sites/lrp/shared/baseline/identity/lrp_logo/logo.png?h=51&amp;w=200&amp;la=pl-PL&amp;hash=F7AB432605B0B03C8BB60F4688B30FA2" alt="La Roche Posay" />
+                    <span class="transparent-logo"><img src="/-/media/project/loreal/brand-sites/lrp/shared/baseline/identity/white-logo.png?h=81&amp;w=310&amp;la=pl-PL&amp;hash=2C0E2E7C435BAA27DF88D42E1FCBCD48" alt="La Roche Posay" /></span>
+                </a>
+            </div>
+
+
+
+
+        
+
+<div class="component navigation-component">
+    <div class="component-content">
+        <main-menu is-tranparent-header="false"
+                   search-bar-a11y-aria-label-clear="Wyczyść pole wyszukiwania"
+                   search-bar-clear-label="Wyczyść" search-bar-help-text="Prosimy wpisać co najmniej 3 znaki."
+                   search-bar-icon-clear="/frontend/master/images/icons/search-close.svg"
+                   search-bar-icon-search="/frontend/master/images/icons/search-icon-new.svg"
+                   search-bar-placeholder="Zapytaj o składnik, prześlij nam swoje wątpliwości lub pytania..." search-bar-redirect-url="/search?q="
+                   search-bar-api-url="/apilrp/searchSuggestion/SuggestedSearch?query="
+                   trending-search-bar-api-url="/apilrp/trendingsearch/GetTrendingKeywords"
+                   a11y-aria-label-language="Język strony"
+                   current-language="PL"
+                   a11y-aria-label-principal-menu="Menu gł&#243;wne"
+                   a11y-aria-label-main-menu="Menu gł&#243;wne"
+                   :acc-enable="true"
+                   acc-title="DOSTĘPNOŚĆ STRONY"
+                   acc-black-icon-src="/-/media/project/loreal/brand-sites/lrp/shared/baseline/accessibility-icon/accessibility-black.svg"
+                   acc-white-icon-src="/-/media/project/loreal/brand-sites/lrp/shared/baseline/accessibility-icon/accessibility-white.svg"
+                   acc-icon-alt=""
+                   acc-animation-label="ANIMACJE"
+                   acc-contrast-label="KONTRAST"
+                   :acc-enable-animation="true"
+                   :acc-enable-contrast="true"
+                   acc-enable-toggle-text="Włączone"
+                   acc-disable-toggle-text="Wyłączone"
+                   acc-event-label="DOSTĘPNOŚĆ STRONY"
+                   page-category="error page"
+                   :lang-switcher-is-enable="false"
+                   :item-data="[]" search-label="search"
+                   >
+            <!-- to be made dynamic: a11y-aria-label-principal-menu, a11y-aria-label-main-menu -->
+
+            <ul slot="navlist" class="nav__list" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-hidden="true">
+    <li class="nav__item" aria-expanded="false">
+
+    </li>
+</ul>
+
+<template slot="accountNav" scope="props">
+            <ul class="main-menu-nav__level-1 is-secondary nav-accounts">
+
+            </ul>
+
+</template>
+
+
+
+            
+<template slot="nav" scope="props">
+            <ul class="main-menu-nav__level-1 is-primary">
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <button @click="props.menuLevelOpen(1)"
+                @mouseover="props.menuLevelOpen(1)"
+                :aria-expanded="props.menuLevel2 === 1 ? 'true' : 'false'"
+                class="main-menu-nav__tab desktop-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą&quot;}">
+            <p>
+                Problemy ze sk&oacute;rą
+            </p>
+        </button>
+        <button @click="props.menuLevelOpen(1)"
+                :aria-expanded="props.menuLevel2 === 1 ? 'true' : 'false'"
+                class="main-menu-nav__tab mobile-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą&quot;}">
+            <p>
+                Problemy ze sk&oacute;rą
+            </p>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <section v-if="props.menuLevel2 === 1"
+                 aria-labelledby="unique-identifier-1"
+                 class="main-menu-nav__level-2-wrapper">
+            <div class="main-menu-nav__item-back-level-1">
+                <button @click="props.menuLevelOpen(0)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <div class="main-menu-nav__content">
+
+                    <a href="/event/effaclar-spotscan-plus" v-tag:useractionevent="{&quot;event&quot;:&quot;uaevent&quot;,&quot;ecommerce&quot;:&quot;undefined&quot;,&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::wypr&#243;buj&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::wypr&#243;buj&quot;}">
+                            <img class="image" src="/-/media/project/loreal/brand-sites/lrp/emea/pl/simple-page/landing-page/effaclar-spotscan-plus/entry-points/la-roche-posay-spotscan-plus-header-slider-hyperpigmentation-min-(1).jpg" alt="Połowa twarzy kobiety widziana na ekranie telefonu.">
+
+                        <p class="is-2" id="unique-identifier-1"></p>
+
+                        <div class="content">
+                            <p>SPOTSCAN+ to narzędzie do analizy i diagnozy skóry skłonnej do trądziku oparte na sztucznej inteligencji i połączone z dermatologiczną wiedzą La&nbsp;Roche-Posay.</p>
+                        </div>
+                    </a>
+                    <div class="cta cta--light ">
+                        <a href="/event/effaclar-spotscan-plus" class="btn__wrapper"  v-tag:useractionevent="{&quot;event&quot;:&quot;uaevent&quot;,&quot;ecommerce&quot;:&quot;undefined&quot;,&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::wypr&#243;buj&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::wypr&#243;buj&quot;}">
+                            WYPR&#211;BUJ
+                        </a>
+                    </div>
+
+            </div>
+
+            <button class="main-menu-nav__level--mobile-back" @click="props.menuLevelOpen(0)">
+
+                Problemy ze sk&oacute;rą
+            </button>
+
+                <ul class="main-menu-nav__level-2">
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 1 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 1, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 1 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik&quot;}">
+            TRĄDZIK
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 1 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                TRĄDZIK
+                <span class="is-hidden">Wstecz</span>
+            </button>
+                <div class="is-2 main-menu-nav__level-3-main-link">
+                    <a href="/tradzik"
+                       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;}">
+                        Dowiedz się więcej: TRĄDZIK
+                    </a>
+                </div>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/tradzik/leczenie-tradziku"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::leczenie trądziku&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::leczenie trądziku&quot;}">
+                                Leczenie trądziku
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/tradzik/tradzik-doroslych"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::trądzik u dorosłych&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::trądzik u dorosłych&quot;}">
+                                Trądzik u dorosłych
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/blizny-i-przebarwienia-po-tradziku"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::blizny i przebarwienia po trądziku&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::blizny i przebarwienia po trądziku&quot;}">
+                                Blizny i przebarwienia po trądziku
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/dermokosmetyki-effaclar-w-ulepszonych-formulach"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::dermokosmetyki effaclar w ulepszonych formułach&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::dermokosmetyki effaclar w ulepszonych formułach&quot;}">
+                                Dermokosmetyki Effaclar w ulepszonych formułach
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/pielegnacja-cery-sklonnej-do-tradziku"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::pielęgnacja cery skłonnej do trądziku&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::pielęgnacja cery skłonnej do trądziku&quot;}">
+                                Pielęgnacja cery skłonnej do trądziku
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/co-dziala-na-tradzik-mlodzienczy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::5 błęd&#243;w w pielęgnacji twarzy&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::5 błęd&#243;w w pielęgnacji twarzy&quot;}">
+                                5 błęd&#243;w w pielęgnacji twarzy
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/tradzik-hormonalny"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::jak leczyć trądzik hormonalny?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::jak leczyć trądzik hormonalny?&quot;}">
+                                Jak leczyć trądzik hormonalny?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/co-jesc-a-czego-unikac-aby-pozbyc-sie-tradziku"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::co jeść, a czego unikać?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::co jeść, a czego unikać?&quot;}">
+                                Co jeść, a czego unikać?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/tradzik-na-plecach-przyczyny-i-leczenie"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::trądzik na plecach - przyczyny i leczenie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::trądzik na plecach - przyczyny i leczenie&quot;}">
+                                Trądzik na plecach - przyczyny i leczenie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/krosty-pod-skora-na-twarzy-jak-je-zwalczyc"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::krosty pod sk&#243;rą na twarzy - jak je zwalczyć?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::krosty pod sk&#243;rą na twarzy - jak je zwalczyć?&quot;}">
+                                Krosty pod sk&#243;rą na twarzy - jak je zwalczyć?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jakie-pokarmy-wywoluja-tradzik-i-czy-lekarstwo-na-niego-mozesz-znalezc-na-wlasnym-talerzu"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::jakie pokarmy wywołują trądzik?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::jakie pokarmy wywołują trądzik?&quot;}">
+                                Jakie pokarmy wywołują trądzik?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/rodzaje-tradziku-sprawdz-jaki-masz-tradzik"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::rodzaje trądziku&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::rodzaje trądziku&quot;}">
+                                Rodzaje trądziku
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/leczenie-tradziku-izotretynoina-szansa-czy-zagrozenie"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::leczenie trądziku izotretynoiną&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::trądzik::leczenie trądziku izotretynoiną&quot;}">
+                                Leczenie trądziku izotretynoiną
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 2 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 2, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 2 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia&quot;}">
+            ALERGIA
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 2 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                ALERGIA
+                <span class="is-hidden">Wstecz</span>
+            </button>
+                <div class="is-2 main-menu-nav__level-3-main-link">
+                    <a href="/skora-alergiczna"
+                       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;}">
+                        Dowiedz się więcej: ALERGIA
+                    </a>
+                </div>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/skora-alergiczna/moja-skora-jest-reaktywna-i-alergiczna"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::pomocy!  moja sk&#243;ra jest reaktywna i alergiczna&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::pomocy!  moja sk&#243;ra jest reaktywna i alergiczna&quot;}">
+                                Pomocy!  Moja sk&#243;ra jest reaktywna i alergiczna
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/skora-alergiczna/produkty-stosowane-w-leczeniu-skory-alergicznej"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::produkty stosowane w leczeniu sk&#243;ry alergicznej&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::produkty stosowane w leczeniu sk&#243;ry alergicznej&quot;}">
+                                Produkty stosowane w leczeniu sk&#243;ry alergicznej
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/5-sprawdzonych-sposobow-na-czerwienienie-sie-twarzy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::5 sposob&#243;w na czerwienienie się twarzy&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::5 sposob&#243;w na czerwienienie się twarzy&quot;}">
+                                5 sposob&#243;w na czerwienienie się twarzy
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/alergia-skorna-czyli-jak-radzic-sobie-z-czerwonymi-plamami-na-skorze"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::jak radzić sobie z czerwonymi plamami na sk&#243;rze?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::jak radzić sobie z czerwonymi plamami na sk&#243;rze?&quot;}">
+                                Jak radzić sobie z czerwonymi plamami na sk&#243;rze?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/oslabione-naczynka-krwionosne"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::osłabione naczynka krwionośne&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::osłabione naczynka krwionośne&quot;}">
+                                Osłabione naczynka krwionośne
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jakie-moga-byc-przyczyny-swedzenia-twarzy-sprawdz-co-podraznia-twoja-skore"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::przyczyny swędzenia twarzy&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::przyczyny swędzenia twarzy&quot;}">
+                                Przyczyny swędzenia twarzy
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/pekajaca-skora-na-palcach-czy-to-objawy-atopowego-zapalenia-skory"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::pękająca sk&#243;ra na palcach - czy to objaw azs?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::pękająca sk&#243;ra na palcach - czy to objaw azs?&quot;}">
+                                Pękająca sk&#243;ra na palcach - czy to objaw AZS?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/czy-pekajaca-skora-miedzy-palcami-moze-byc-objawem-choroby-skory"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::czy pękająca sk&#243;ra między palcami może być objawem choroby sk&#243;ry?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::czy pękająca sk&#243;ra między palcami może być objawem choroby sk&#243;ry?&quot;}">
+                                Czy pękająca sk&#243;ra między palcami może być objawem choroby sk&#243;ry?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/stan-zapalny-skory-jak-zlagodzic-podraznienia-skory"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::stan zapalny sk&#243;ry - jak złagodzić podrażnienia?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::stan zapalny sk&#243;ry - jak złagodzić podrażnienia?&quot;}">
+                                Stan zapalny sk&#243;ry - jak złagodzić podrażnienia?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/alergia-na-slonce-objawy-przyczyny-i-sposoby-radzenia-sobie"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::alergia na słońce - objawy i przyczyny&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::alergia na słońce - objawy i przyczyny&quot;}">
+                                Alergia na słońce - objawy i przyczyny
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/alergia-skorna-skora-wrazliwa-i-skora-reaktywna"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::alergia sk&#243;rna, sk&#243;ra wrażliwa i reaktywna&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::alergia sk&#243;rna, sk&#243;ra wrażliwa i reaktywna&quot;}">
+                                Alergia sk&#243;rna, sk&#243;ra wrażliwa i reaktywna
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/leczenie-alergii-skornej"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::leczenie alergii sk&#243;rnej&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::alergia::leczenie alergii sk&#243;rnej&quot;}">
+                                Leczenie alergii sk&#243;rnej
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 3 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 3, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 3 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry&quot;}">
+            EGZEMA I ATOPOWE ZAPALENIE SK&#211;RY
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 3 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                EGZEMA I ATOPOWE ZAPALENIE SK&#211;RY
+                <span class="is-hidden">Wstecz</span>
+            </button>
+                <div class="is-2 main-menu-nav__level-3-main-link">
+                    <a href="/egzema"
+                       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;}">
+                        Dowiedz się więcej: EGZEMA I ATOPOWE ZAPALENIE SK&#211;RY
+                    </a>
+                </div>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/egzema/egzema-u-niemowlat-i-dzieci"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::egzema u niemowląt i dzieci&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::egzema u niemowląt i dzieci&quot;}">
+                                Egzema u niemowląt i dzieci
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/egzema/jakie-sa-przyczyny-egzemy-jak-jej-zapobiegac"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::co powoduje egzemę? jak można temu zapobiec?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::co powoduje egzemę? jak można temu zapobiec?&quot;}">
+                                Co powoduje egzemę? Jak można temu zapobiec?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/egzema/leczenie-egzemy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::leczenie egzemy&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::leczenie egzemy&quot;}">
+                                Leczenie egzemy
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/event/rodzice-dzieci-ze-skora-sklonna-do-atopii"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::dzieci z egzemą: przewodnik dla rodzic&#243;w&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::dzieci z egzemą: przewodnik dla rodzic&#243;w&quot;}">
+                                Dzieci z egzemą: przewodnik dla rodzic&#243;w
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/atopowe-zapalenie-skory-wszystko-co-musisz-wiedziec"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::wszystko, co musisz wiedzieć o azs&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::wszystko, co musisz wiedzieć o azs&quot;}">
+                                Wszystko, co musisz wiedzieć o AZS
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/atopowe-zapalenie-skory-u-niemowlat-objawy-i-przyczyny"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::atopowe zapalenie sk&#243;ry u niemowląt&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::atopowe zapalenie sk&#243;ry u niemowląt&quot;}">
+                                Atopowe zapalenie sk&#243;ry u niemowląt
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/atopowe-zapalenie-skory-u-dzieci-przyczyny-objawy-pielegnacja"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::atopowe zapalenie sk&#243;ry u dzieci&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::atopowe zapalenie sk&#243;ry u dzieci&quot;}">
+                                Atopowe zapalenie sk&#243;ry u dzieci
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/egzema-skory-czym-jest-objawy-pielegnacja"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::czym jest egzema sk&#243;ry?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::czym jest egzema sk&#243;ry?&quot;}">
+                                Czym jest egzema sk&#243;ry?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/masz-luszczyce-sprawdz-jakiej-diety-powinnas-przestrzegac"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::jaka dieta na łuszczycę?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::jaka dieta na łuszczycę?&quot;}">
+                                Jaka dieta na łuszczycę?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/luszczaca-sie-skora-jak-radzic-sobie-z-luszczeniem-na-twarzy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::jak radzić sobie z łuszczeniem na twarzy?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::jak radzić sobie z łuszczeniem na twarzy?&quot;}">
+                                Jak radzić sobie z łuszczeniem na twarzy?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/atopowe-zapalenie-skory-twarzy-pielegnacja-cery-atopowej"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::pielęgnacja cery atopowej&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::pielęgnacja cery atopowej&quot;}">
+                                Pielęgnacja cery atopowej
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/sucha-skora-na-kolanach-i-lokciach-czym-jest-spowodowana"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::sucha sk&#243;ra na kolanach i łokciach - co jest przyczyną?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::egzema i atopowe zapalenie sk&#243;ry::sucha sk&#243;ra na kolanach i łokciach - co jest przyczyną?&quot;}">
+                                Sucha sk&#243;ra na kolanach i łokciach - co jest przyczyną?
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 4 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 4, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 4 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa&quot;}">
+            SK&#211;RA WRAŻLIWA
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 4 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                SK&#211;RA WRAŻLIWA
+                <span class="is-hidden">Wstecz</span>
+            </button>
+                <div class="is-2 main-menu-nav__level-3-main-link">
+                    <a href="/article/budowa-i-funkcje-skory-skad-bierze-sie-skora-wrazliwa"
+                       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;}">
+                        Dowiedz się więcej: SK&#211;RA WRAŻLIWA
+                    </a>
+                </div>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jak-ukoic-podrazniona-skore"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::jak ukoić podrażnioną sk&#243;rę?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::jak ukoić podrażnioną sk&#243;rę?&quot;}">
+                                Jak ukoić podrażnioną sk&#243;rę?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/leczenie-tradziku-rozowatego"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::leczenie trądziku r&#243;żowatego&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::leczenie trądziku r&#243;żowatego&quot;}">
+                                Leczenie trądziku r&#243;żowatego
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/zaczerwieniona-skora-wokol-oczu-przyczyny-i-pielegnacja"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::zaczerwieniona sk&#243;ra wok&#243;ł oczu&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::zaczerwieniona sk&#243;ra wok&#243;ł oczu&quot;}">
+                                Zaczerwieniona sk&#243;ra wok&#243;ł oczu
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jak-walczyc-z-nerwica-skory"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::jak walczyć z nerwicą sk&#243;ry?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::jak walczyć z nerwicą sk&#243;ry?&quot;}">
+                                Jak walczyć z nerwicą sk&#243;ry?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jak-leczyc-objawy-zapalenia-mieszkow-wlosowych"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::jak leczyć objawy zapalenia mieszk&#243;w włosowych?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::jak leczyć objawy zapalenia mieszk&#243;w włosowych?&quot;}">
+                                Jak leczyć objawy zapalenia mieszk&#243;w włosowych?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/kto-powinien-sie-wystrzegac-goracych-kapieli"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::kto powinien wystrzegać się gorących kąpieli?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::kto powinien wystrzegać się gorących kąpieli?&quot;}">
+                                Kto powinien wystrzegać się gorących kąpieli?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/objawy-stresu-widoczne-na-twojej-skorze"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::objawy stresu widoczne na twojej sk&#243;rze&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::objawy stresu widoczne na twojej sk&#243;rze&quot;}">
+                                Objawy stresu widoczne na Twojej sk&#243;rze
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/sucha-skora-przywrocenie-nawilzenia-aby-wyeliminowac-klucie-i-uczuciesciagniecia"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::jak przywr&#243;cić nawilżenie suchej sk&#243;rze?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::jak przywr&#243;cić nawilżenie suchej sk&#243;rze?&quot;}">
+                                Jak przywr&#243;cić nawilżenie suchej sk&#243;rze?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jak-zniwelowac-objawy-suchej-skory-pod-oczami"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::jak zniwelować objawy suchej sk&#243;ry pod oczami&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::jak zniwelować objawy suchej sk&#243;ry pod oczami&quot;}">
+                                Jak zniwelować objawy suchej sk&#243;ry pod oczami
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/reaktywnosc-skory-3-przyczyny-posiadania-skory-wrazliwej"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::3 przyczyny posiadania sk&#243;ry reaktywnej&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::3 przyczyny posiadania sk&#243;ry reaktywnej&quot;}">
+                                3 przyczyny posiadania sk&#243;ry reaktywnej
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/sprawdzone-sposoby-na-naczynka-zobacz-jak-sie-ich-pozbyc"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::sprawdzone sposoby na naczynka&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::sprawdzone sposoby na naczynka&quot;}">
+                                Sprawdzone sposoby na naczynka
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/budowa-i-funkcje-skory-skad-bierze-sie-skora-wrazliwa"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::budowa i funkcje sk&#243;ry&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::sk&#243;ra wrażliwa::budowa i funkcje sk&#243;ry&quot;}">
+                                Budowa i funkcje sk&#243;ry
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 5 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 5, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 5 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka&quot;}">
+            PIELĘGNACJA SK&#211;RY DZIECKA
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 5 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                PIELĘGNACJA SK&#211;RY DZIECKA
+                <span class="is-hidden">Wstecz</span>
+            </button>
+                <div class="is-2 main-menu-nav__level-3-main-link">
+                    <a href="/event/pielegnacja-skory-dzieci"
+                       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;}">
+                        Dowiedz się więcej: PIELĘGNACJA SK&#211;RY DZIECKA
+                    </a>
+                </div>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/ciemieniucha"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::ciemieniucha - przyczyny i objawy&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::ciemieniucha - przyczyny i objawy&quot;}">
+                                Ciemieniucha - przyczyny i objawy
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/kosmetyki-dla-dzieci"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::kosmetyki dla dzieci w zależności od wieku&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::kosmetyki dla dzieci w zależności od wieku&quot;}">
+                                Kosmetyki dla dzieci w zależności od wieku
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/pierwsza-kapiel-noworodka-jak-sie-do-niej-przygotowac"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::pierwsza kąpiel noworodka&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::pierwsza kąpiel noworodka&quot;}">
+                                Pierwsza kąpiel noworodka
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/uczulenie-u-dziecka"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::uczulenie u dziecka&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::uczulenie u dziecka&quot;}">
+                                Uczulenie u dziecka
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/wysypka-u-dziecka"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::wysypka u dzieci&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::wysypka u dzieci&quot;}">
+                                Wysypka u dzieci
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/4-sposoby-na-sucha-skore-u-dziecka-jak-radzic-sobie-z-uciazliwymi-objawami"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::4 sposoby na suchą sk&#243;rę u dziecka&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::4 sposoby na suchą sk&#243;rę u dziecka&quot;}">
+                                4 sposoby na suchą sk&#243;rę u dziecka
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/6-zlotych-zasad-jak-dbac-o-blizny-u-dziecka"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::6 złotych zasad jak dbać o blizny u dziecka&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::6 złotych zasad jak dbać o blizny u dziecka&quot;}">
+                                6 złotych zasad jak dbać o blizny u dziecka
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/pieluszkowe-zapalenie-skory"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::czym jest pieluszkowe zapalenie sk&#243;ry?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry dziecka::czym jest pieluszkowe zapalenie sk&#243;ry?&quot;}">
+                                Czym jest pieluszkowe zapalenie sk&#243;ry?
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 6 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 6, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 6 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze&quot;}">
+            PRZEBARWIENIA NA SK&#211;RZE
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 6 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                PRZEBARWIENIA NA SK&#211;RZE
+                <span class="is-hidden">Wstecz</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/3-sposoby-na-starcze-plamy-na-dloniach"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::3 sposoby na starcze plamy na dłoniach&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::3 sposoby na starcze plamy na dłoniach&quot;}">
+                                3 sposoby na starcze plamy na dłoniach
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jakie-sa-przyczyny-przebarwien-pod-oczami"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::jakie są przyczyny przebarwień pod oczami?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::jakie są przyczyny przebarwień pod oczami?&quot;}">
+                                Jakie są przyczyny przebarwień pod oczami?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/melasyl-skladnik-aktywny-na-przebarwienia"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::melasyl - przełomowy składnik na przebarwienia&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::melasyl - przełomowy składnik na przebarwienia&quot;}">
+                                Melasyl - przełomowy składnik na przebarwienia
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jakie-sa-przyczyny-hiperpigmentacji"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::jakie są przyczyny hiperpigmentacji&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::jakie są przyczyny hiperpigmentacji&quot;}">
+                                Jakie są przyczyny hiperpigmentacji
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/skladniki-aktywne-na-przebarwienia"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::składniki aktywne na przebarwienia&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::składniki aktywne na przebarwienia&quot;}">
+                                Składniki aktywne na przebarwienia
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/ostuda-na-twarzy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::ostuda na twarzy - czym jest i jak się jej pozbyć?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::ostuda na twarzy - czym jest i jak się jej pozbyć?&quot;}">
+                                Ostuda na twarzy - czym jest i jak się jej pozbyć?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/przebarwienia-na-twarzy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::przebarwienia na twarzy - skąd się biorą?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::przebarwienia na twarzy - skąd się biorą?&quot;}">
+                                Przebarwienia na twarzy - skąd się biorą?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/fotoprotekcja-jak-zapobiegac-przebarwieniom"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::fotoprotekcja - jak zapobiegać przebarwieniom&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::fotoprotekcja - jak zapobiegać przebarwieniom&quot;}">
+                                Fotoprotekcja - jak zapobiegać przebarwieniom
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/fototyp-skory-a-przebarwienia"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::fototyp sk&#243;ry a przebarwienia&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::przebarwienia na sk&#243;rze::fototyp sk&#243;ry a przebarwienia&quot;}">
+                                Fototyp sk&#243;ry a przebarwienia
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 7 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 7, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 7 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem&quot;}">
+            OCHRONA PRZED SŁOŃCEM
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 7 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                OCHRONA PRZED SŁOŃCEM
+                <span class="is-hidden">Wstecz</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/promienie-uvb-i-uva-czym-sie-roznia-i-jaki-jest-ich-wplyw-na-skore"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::promienie uvb i uva - czym się r&#243;żnią?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::promienie uvb i uva - czym się r&#243;żnią?&quot;}">
+                                Promienie UVB i UVA - czym się r&#243;żnią?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/filtr-spf-50-do-twarzy-i-ciala"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::filtr spf50+ do twarzy i ciała&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::filtr spf50+ do twarzy i ciała&quot;}">
+                                Filtr SPF50+ do twarzy i ciała
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/krem-przeciwsloneczny-rodzaje-i-dzialanie"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::krem przeciwsloneczny - rodzaje i dzialanie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::krem przeciwsloneczny - rodzaje i dzialanie&quot;}">
+                                Krem przeciwsloneczny - rodzaje i dzialanie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/oparzenia-sloneczne"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::oparzenia słoneczne&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::oparzenia słoneczne&quot;}">
+                                Oparzenia słoneczne
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/krem-z-filtrem-produkt-przeciwstarzeniowy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::krem z filtrem - produkt przeciwstarzeniowy&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::krem z filtrem - produkt przeciwstarzeniowy&quot;}">
+                                Krem z filtrem - produkt przeciwstarzeniowy
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/opalanie-w-ciazy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::opalanie w ciąży&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::opalanie w ciąży&quot;}">
+                                Opalanie w ciąży
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/opalenizna-jak-sie-zdrowo-opalac"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::opalenizna - jak się zdrowo opalać?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::opalenizna - jak się zdrowo opalać?&quot;}">
+                                Opalenizna - jak się zdrowo opalać?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/swierzbiaczka-letnia-niezwykle-czesto-spotykana-alergia-sloneczna"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::swierzbiączka letnia - często spotykana alergia słoneczna&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::swierzbiączka letnia - często spotykana alergia słoneczna&quot;}">
+                                Swierzbiączka letnia - często spotykana alergia słoneczna
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/objawy-niedoboru-witaminy-d"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::objawy niedoboru witaminy d&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::objawy niedoboru witaminy d&quot;}">
+                                Objawy niedoboru witaminy D
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/objawy-odwodnienia-widoczne-na-twojej-skorze"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::objawy odwodnienia widoczne na twojej sk&#243;rze&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::ochrona przed słońcem::objawy odwodnienia widoczne na twojej sk&#243;rze&quot;}">
+                                Objawy odwodnienia widoczne na Twojej sk&#243;rze
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 8 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 8, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 8 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy&quot;}">
+            PIELĘGNACJA TWARZY
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 8 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                PIELĘGNACJA TWARZY
+                <span class="is-hidden">Wstecz</span>
+            </button>
+                <div class="is-2 main-menu-nav__level-3-main-link">
+                    <a href="/article/jak-dbac-o-twarz-zobacz-jak-powinna-wygladac-codzienna-pielegnacja-skory-twarzy"
+                       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;}">
+                        Dowiedz się więcej: PIELĘGNACJA TWARZY
+                    </a>
+                </div>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/serum-do-twarzy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::serum do twarzy - źr&#243;dło składnik&#243;w aktywnych&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::serum do twarzy - źr&#243;dło składnik&#243;w aktywnych&quot;}">
+                                Serum do twarzy - źr&#243;dło składnik&#243;w aktywnych
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/skin-streaming"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::skin streaming - najnowszy trend pielęgnacyjny&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::skin streaming - najnowszy trend pielęgnacyjny&quot;}">
+                                Skin streaming - najnowszy trend pielęgnacyjny
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/czym-jest-mikrobiom-skory"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::czym jest mikrobiom sk&#243;ry?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::czym jest mikrobiom sk&#243;ry?&quot;}">
+                                Czym jest mikrobiom sk&#243;ry?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/czym-jest-skin-cycling"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::czym jest skin cycling?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::czym jest skin cycling?&quot;}">
+                                Czym jest skin cycling?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/prosaki-na-twarzy-jak-sie-ich-pozbyc"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::prosaki na twarzy - jak się ich pozbyć?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::prosaki na twarzy - jak się ich pozbyć?&quot;}">
+                                Prosaki na twarzy - jak się ich pozbyć?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jak-pozbyc-sie-wagrow"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::jak skutecznie pozbyć się wągr&#243;w?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::jak skutecznie pozbyć się wągr&#243;w?&quot;}">
+                                Jak skutecznie pozbyć się wągr&#243;w?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/5-sposobow-na-pozatykane-pory"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::5 sposob&#243;w na pozatykane pory&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::5 sposob&#243;w na pozatykane pory&quot;}">
+                                5 sposob&#243;w na pozatykane pory
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/swiecenie-sie-skory-czym-jest-spowodowane"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::świecenie się sk&#243;ry - czym jest spowodowane?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::świecenie się sk&#243;ry - czym jest spowodowane?&quot;}">
+                                Świecenie się sk&#243;ry - czym jest spowodowane?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/co-to-jest-sebum-i-jak-zredukowac-jego-nadmiar"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::co to jest sebum i jak zredukować jego nadmiar?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::co to jest sebum i jak zredukować jego nadmiar?&quot;}">
+                                Co to jest sebum i jak zredukować jego nadmiar?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jak-sie-pozbyc-zaskornikow"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::jak się pozbyć zask&#243;rnik&#243;w?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::jak się pozbyć zask&#243;rnik&#243;w?&quot;}">
+                                Jak się pozbyć zask&#243;rnik&#243;w?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/wszystko-co-warto-wiedziec-o-oczyszczaniu-twarzy-olejami"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::wszystko o oczyszczaniu twarzy olejami&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja twarzy::wszystko o oczyszczaniu twarzy olejami&quot;}">
+                                Wszystko o oczyszczaniu twarzy olejami
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 9 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 9, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 9 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała&quot;}">
+            PIELĘGNACJA CIAŁA
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 9 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                PIELĘGNACJA CIAŁA
+                <span class="is-hidden">Wstecz</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jak-radzic-sobie-z-objawami-nadmiernej-potliwosci-5-sprawdzonych-sposobow"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::objawy nadmiernej potliwości - porady&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::objawy nadmiernej potliwości - porady&quot;}">
+                                Objawy nadmiernej potliwości - porady
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/rak-skory"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::rak sk&#243;ry - pielęgnacja pełna troski&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::rak sk&#243;ry - pielęgnacja pełna troski&quot;}">
+                                Rak sk&#243;ry - pielęgnacja pełna troski
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/dlaczego-warto-zrobic-detoks-organizmu"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::dlaczego warto zrobić detoks organizmu?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::dlaczego warto zrobić detoks organizmu?&quot;}">
+                                Dlaczego warto zrobić detoks organizmu?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/zapalenie-mieszkow-wlosowych-5-rad-jak-pielegnowac-skore-podczas-schorzenia"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::zapalenie mieszk&#243;w włosowych - jak pielęgnować sk&#243;rę?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::zapalenie mieszk&#243;w włosowych - jak pielęgnować sk&#243;rę?&quot;}">
+                                Zapalenie mieszk&#243;w włosowych - jak pielęgnować sk&#243;rę?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/sprawdzone-porady-jak-odkwasic-organizm"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::jak odkwasić organizm?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::jak odkwasić organizm?&quot;}">
+                                Jak odkwasić organizm?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/czym-jest-rumien-guzowaty-jakie-sa-jego-objawy-jak-wyglada-leczenie"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::rumień guzowaty - objawy, leczenie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::rumień guzowaty - objawy, leczenie&quot;}">
+                                Rumień guzowaty - objawy, leczenie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/rumien-wielopostaciowy-przyczyny-objawy-i-leczenie-rumienia"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::rumień wielopostaciowy - objawy, leczenie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::rumień wielopostaciowy - objawy, leczenie&quot;}">
+                                Rumień wielopostaciowy - objawy, leczenie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/uszkodzenie-naskorka-jak-przyspieszyc-proces-gojenia"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::uszkodzenie nask&#243;rka - proces gojenia&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::uszkodzenie nask&#243;rka - proces gojenia&quot;}">
+                                Uszkodzenie nask&#243;rka - proces gojenia
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/blizny-i-przebarwienia-jak-sie-ich-pozbyc"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::blizny i przebarwienia - jak się ich pozbyć?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::blizny i przebarwienia - jak się ich pozbyć?&quot;}">
+                                Blizny i przebarwienia - jak się ich pozbyć?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/choroba-hashimoto-prawidlowa-pielegnacja-skory"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::choroba hashimoto - jak pielęgnować sk&#243;rę?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::choroba hashimoto - jak pielęgnować sk&#243;rę?&quot;}">
+                                Choroba Hashimoto - jak pielęgnować sk&#243;rę?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jak-odbudowac-warstwe-lipidowa-naskorka-sprawdz-jak-powinnas-pielegnowac-swoja-skore"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::jak odbudować warstwę lipidową nask&#243;rka?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::jak odbudować warstwę lipidową nask&#243;rka?&quot;}">
+                                Jak odbudować warstwę lipidową nask&#243;rka?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/10-porad-jak-dbac-o-skore-ciala"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::porady, jak dbać o sk&#243;rę ciała&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::porady, jak dbać o sk&#243;rę ciała&quot;}">
+                                PORADY, JAK DBAĆ O SK&#211;RĘ CIAŁA
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/poznaj-przyczyny-nadmiernej-potliwosci-pod-pachami-i-pozbadz-sie-dyskomfortu"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::przyczyny nadmiernej potliwości pod pachami&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja ciała::przyczyny nadmiernej potliwości pod pachami&quot;}">
+                                Przyczyny nadmiernej potliwości pod pachami
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 10 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 10, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 10 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy&quot;}">
+            PIELĘGNACJA SK&#211;RY GŁOWY
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 10 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                PIELĘGNACJA SK&#211;RY GŁOWY
+                <span class="is-hidden">Wstecz</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/nadmierne-pocenie-glowy-przyczyny-objawy-leczenie"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::nadmierne pocenie głowy - przyczyny, objawy, leczenie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::nadmierne pocenie głowy - przyczyny, objawy, leczenie&quot;}">
+                                Nadmierne pocenie głowy - przyczyny, objawy, leczenie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/lupiez-giberta-czym-jest-jak-sobie-z-nim-radzic"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::czym jest łupież giberta?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::czym jest łupież giberta?&quot;}">
+                                Czym jest łupież Giberta?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/co-jesc-gdy-wlosy-wypadaja"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::co jeść, gdy włosy wypadają?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::co jeść, gdy włosy wypadają?&quot;}">
+                                Co jeść, gdy włosy wypadają?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/mycie-wlosow-czyli-jak-dbac-o-skore-z-luszczyca"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::mycie włos&#243;w - jak dbać o sk&#243;rę z łuszczycą?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::mycie włos&#243;w - jak dbać o sk&#243;rę z łuszczycą?&quot;}">
+                                Mycie włos&#243;w - jak dbać o sk&#243;rę z łuszczycą?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/5-sprawdzonych-sposobow-na-lupiez-lojotokowy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::5 sposob&#243;w na łupież łojotokowy&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::5 sposob&#243;w na łupież łojotokowy&quot;}">
+                                5 sposob&#243;w na łupież łojotokowy
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/wcierka-do-wlosow-jak-stosowac-dla-kogo-jest-przeznaczona"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::wcierka do włos&#243;w - jak ją stosować?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::wcierka do włos&#243;w - jak ją stosować?&quot;}">
+                                Wcierka do włos&#243;w - jak ją stosować?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/lojotokowe-zapalenie-skory-glowy-jak-leczyc-objawy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::jak leczyć łojotokowe zapalenie sk&#243;ry głowy?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::jak leczyć łojotokowe zapalenie sk&#243;ry głowy?&quot;}">
+                                Jak leczyć łojotokowe zapalenie sk&#243;ry głowy?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/czy-swiad-i-lupiez-moga-byc-przyczyna-wypadajacych-wlosow"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::łupież i świąd a wypadanie włos&#243;w&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::łupież i świąd a wypadanie włos&#243;w&quot;}">
+                                Łupież i świąd a wypadanie włos&#243;w
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/wrazliwa-skora-glowy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::wrażliwa sk&#243;ra głowy&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::pielęgnacja sk&#243;ry głowy::wrażliwa sk&#243;ra głowy&quot;}">
+                                Wrażliwa sk&#243;ra głowy
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 11 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(1, 11, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 1 && props.menuLevel3 === 11 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki&quot;}">
+            AKTYWNE SKŁADNIKI
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 1 && props.menuLevel3 === 11 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3 is-col-2">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(1)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(1)">
+                AKTYWNE SKŁADNIKI
+                <span class="is-hidden">Wstecz</span>
+            </button>
+                <div class="is-2 main-menu-nav__level-3-main-link">
+                    <a href="/article/dihydroxyaceton-glycerin-lanolin-czyli-skladniki-aktywne-w-kosmetykach"
+                       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::dowiedz się więcej:::dowiedz się więcej:&quot;}">
+                        Dowiedz się więcej: AKTYWNE SKŁADNIKI
+                    </a>
+                </div>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/kwas-azelainowy-dzialanie"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::kwas azelainowy - działanie, właściwości, zastosowanie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::kwas azelainowy - działanie, właściwości, zastosowanie&quot;}">
+                                Kwas azelainowy - działanie, właściwości, zastosowanie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/kwas-salicylowy-dzialanie"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::kwas salicylowy i jego działanie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::kwas salicylowy i jego działanie&quot;}">
+                                Kwas salicylowy i jego działanie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/kwas-hialuronowy"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::jak stosować kwas hialuronowy?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::jak stosować kwas hialuronowy?&quot;}">
+                                Jak stosować kwas hialuronowy?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jak-stosowac-retinol-w-codziennej-pielegnacji"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::jak stosować retinol w codziennej pielęgnacji?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::jak stosować retinol w codziennej pielęgnacji?&quot;}">
+                                Jak stosować retinol w codziennej pielęgnacji?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/witamina-c-wlasciwosci-i-zastosowanie"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::witamina c - właściwości i zastosowanie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::witamina c - właściwości i zastosowanie&quot;}">
+                                Witamina C - właściwości i zastosowanie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/jak-stosowac-niacynamid-i-jakie-sa-tego-efekty"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::jak stosować niacynamid i jakie są tego efekty?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::jak stosować niacynamid i jakie są tego efekty?&quot;}">
+                                Jak stosować niacynamid i jakie są tego efekty?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/czym-jest-mocznik-stosowany-w-kosmetykach"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::czym jest mocznik stosowany w kosmetykach?&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::czym jest mocznik stosowany w kosmetykach?&quot;}">
+                                Czym jest mocznik stosowany w kosmetykach?
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/olejek-z-dziurawca-jakie-ma-wlasciwosci"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::olejek z dziurawca - właściwości i zastosowanie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::olejek z dziurawca - właściwości i zastosowanie&quot;}">
+                                Olejek z dziurawca - właściwości i zastosowanie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/maslo-shea-wlasciwosci-i-zastosowanie"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::masło shea - właściwości i zastosowanie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::masło shea - właściwości i zastosowanie&quot;}">
+                                Masło Shea - właściwości i zastosowanie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/kwas-mlekowy-i-jego-zastosowanie-w-kosmetykach"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::kwas mlekowy - właściwości i zastosowanie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::kwas mlekowy - właściwości i zastosowanie&quot;}">
+                                Kwas mlekowy - właściwości i zastosowanie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/zastosowanie-i-wlasciwosci-olejku-arganowego"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::olejek arganowy - właściwości i zastosowanie&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::olejek arganowy - właściwości i zastosowanie&quot;}">
+                                Olejek arganowy - właściwości i zastosowanie
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/article/dihydroxyaceton-glycerin-lanolin-czyli-skladniki-aktywne-w-kosmetykach"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::dihydroxyaceton, glycerin, lanolin - składniki aktywne &quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;problemy ze sk&amp;oacute;rą::aktywne składniki::dihydroxyaceton, glycerin, lanolin - składniki aktywne &quot;}">
+                                Dihydroxyaceton, glycerin, lanolin - składniki aktywne 
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 1 && props.menuLevel3 === 12 }"
+    class="main-menu-nav__item">
+
+        <a href="/article/odkryj-wszystkie-artykuly" :class="{ 'is-hidden-mobile': props.menuLevel3 }" v-tag:useractionevent="{&quot;label&quot;:&quot;ODKRYJ WSZYSTKIE ARTYKUŁY&quot;,&quot;productid&quot;:null,&quot;action&quot;:&quot;select::header&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;dimension49&quot;:null,&quot;dimension91&quot;:null,&quot;dimension59&quot;:null,&quot;ecommerce&quot;:null,&quot;event&quot;:null,&quot;event_name&quot;:null,&quot;cta_name&quot;:null,&quot;module_name&quot;:null,&quot;link_url&quot;:null,&quot;product_label&quot;:null,&quot;product_franchise&quot;:null,&quot;product_quality_range&quot;:null}">
+            ODKRYJ WSZYSTKIE ARTYKUŁY
+        </a>
+</li>
+                </ul>
+        </section>
+
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 2,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <button @click="props.menuLevelOpen(2)"
+                @mouseover="props.menuLevelOpen(2)"
+                :aria-expanded="props.menuLevel2 === 2 ? 'true' : 'false'"
+                class="main-menu-nav__tab desktop-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w&quot;}">
+            <p>
+                Nasze gamy produktów
+            </p>
+        </button>
+        <button @click="props.menuLevelOpen(2)"
+                :aria-expanded="props.menuLevel2 === 2 ? 'true' : 'false'"
+                class="main-menu-nav__tab mobile-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w&quot;}">
+            <p>
+                Nasze gamy produktów
+            </p>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <section v-if="props.menuLevel2 === 2"
+                 aria-labelledby="unique-identifier-2"
+                 class="main-menu-nav__level-2-wrapper">
+            <div class="main-menu-nav__item-back-level-1">
+                <button @click="props.menuLevelOpen(0)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <div class="main-menu-nav__content">
+
+                        <img class="image" src="/-/media/project/loreal/brand-sites/lrp/master/dmi/lrp-model-visuals/toleriane-dermallergo---rightsend-2024-06-30/concern-subconcern/lrp-com-model-c-toleriane-dermallergo-concern-2024-06-30.jpg" alt="Zdjęcie kobiety | La Roche Posay">
+                    <p class="is-2" id="unique-identifier-2">
+
+                    </p>
+                    <div class="content">
+                        <p>La Roche-Posay, pionier w najnowszych osiągnięciach dermatologii, oferuje kompletne linie produktów do pielęgnacji skóry twarzy i ciała. Wszystkie produkty zostały przetestowane dermatologiczne i stworzone dla najbardziej wrażliwej skóry.</p>
+                    </div>
+
+            </div>
+
+            <button class="main-menu-nav__level--mobile-back" @click="props.menuLevelOpen(0)">
+
+                Nasze gamy produktów
+            </button>
+
+                <ul class="main-menu-nav__level-2 is-large is-col-3 has-only-links">
+
+
+<li class="main-menu-nav__item">
+    <a href="/anthelios"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::anthelios&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::anthelios&quot;}">
+        ANTHELIOS
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/cicaplast"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::cicaplast&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::cicaplast&quot;}">
+        CICAPLAST
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/effaclar"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::effaclar&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::effaclar&quot;}">
+        EFFACLAR
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/hyalu-b5"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::hyalu b5&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::hyalu b5&quot;}">
+        HYALU B5
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/hydraphase"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::hydraphase&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::hydraphase&quot;}">
+        HYDRAPHASE
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/kerium"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::kerium&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::kerium&quot;}">
+        KERIUM
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/lipikar"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::lipikar&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::lipikar&quot;}">
+        LIPIKAR
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/makijaz-toleriane"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::makijaż toleriane&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::makijaż toleriane&quot;}">
+        MAKIJAŻ TOLERIANE
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/mela-b3"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::mela b3&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::mela b3&quot;}">
+        MELA B3
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/nutritic"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::nutritic&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::nutritic&quot;}">
+        NUTRITIC
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/oczyszczanie-toleriane"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::oczyszczanie  toleriane&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::oczyszczanie  toleriane&quot;}">
+        OCZYSZCZANIE  TOLERIANE
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/event/opakowania-uzupelniajace"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::opakowania uzupełniające&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::opakowania uzupełniające&quot;}">
+        OPAKOWANIA UZUPEŁNIAJĄCE
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/redermic"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::redermic&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::redermic&quot;}">
+        REDERMIC
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/event/festiwal-serum"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::serum&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::serum&quot;}">
+        SERUM
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/toleriane"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::toleriane&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::toleriane&quot;}">
+        TOLERIANE
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/witamina-c"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::witamina c&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::witamina c&quot;}">
+        WITAMINA C
+    </a>
+</li>
+
+
+<li class="main-menu-nav__item">
+    <a href="/woda-termalna/woda-termalna"
+       v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze gamy produkt&#243;w::woda termalna&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze gamy produkt&#243;w::woda termalna&quot;}">
+        WODA TERMALNA
+    </a>
+</li>
+                </ul>
+        </section>
+
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 3,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <button @click="props.menuLevelOpen(3)"
+                @mouseover="props.menuLevelOpen(3)"
+                :aria-expanded="props.menuLevel2 === 3 ? 'true' : 'false'"
+                class="main-menu-nav__tab desktop-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze zobowiązania&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze zobowiązania&quot;}">
+            <p>
+                Nasze zobowiązania
+            </p>
+        </button>
+        <button @click="props.menuLevelOpen(3)"
+                :aria-expanded="props.menuLevel2 === 3 ? 'true' : 'false'"
+                class="main-menu-nav__tab mobile-only"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze zobowiązania&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze zobowiązania&quot;}">
+            <p>
+                Nasze zobowiązania
+            </p>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <section v-if="props.menuLevel2 === 3"
+                 aria-labelledby="unique-identifier-3"
+                 class="main-menu-nav__level-2-wrapper">
+            <div class="main-menu-nav__item-back-level-1">
+                <button @click="props.menuLevelOpen(0)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <div class="main-menu-nav__content">
+
+                    <p class="is-2" id="unique-identifier-3">
+
+                    </p>
+                    <div class="content">
+                        <p>Nasze produkty są polecane przez ponad 90&nbsp;000&nbsp;dermatologów na całym świecie, a nasza firma pragnie pomagać Tobie i Twoim bliskim poprawić stan zdrowia skóry i jakość życia.</p>
+                    </div>
+
+            </div>
+
+            <button class="main-menu-nav__level--mobile-back" @click="props.menuLevelOpen(0)">
+
+                Nasze zobowiązania
+            </button>
+
+                <ul class="main-menu-nav__level-2">
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 3 && props.menuLevel3 === 1 }"
+    class="main-menu-nav__item">
+
+        <button @click="props.menuLevelOpen(3, 1, $event)"
+                :class="{ 'is-hidden-mobile': props.menuLevel3 }"
+                :aria-expanded="props.menuLevel2 === 3 && props.menuLevel3 === 1 ? 'true' : 'false'"
+                v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze zobowiązania::nasze zobowiązania&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze zobowiązania::nasze zobowiązania&quot;}">
+            NASZE ZOBOWIĄZANIA
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M8 20L16 11.9998L8 4" stroke="#000" stroke-width="1.2"/>
+            </svg>
+        </button>
+        <div :class="[ props.menuLevel2 === 3 && props.menuLevel3 === 1 ? 'active-animation' : '' ]"
+             class="main-menu-nav__level-3">
+            <div class="main-menu-nav__item-back-level-2" v-if="props.menuLevel3 !== undefined">
+                <button @click="props.menuLevelOpen(3)">
+                    <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10.3001 5.63211H2.71614L5.11614 8.01611L4.17214 8.97611L0.140137 4.94411L4.17214 0.912109L5.11614 1.85611L2.71614 4.25611H10.3001V5.63211Z" fill="black"/>
+                    </svg>
+                    <span>Wstecz</span>
+                </button>
+            </div>
+            <button class="main-menu-nav__level--mobile-back"
+                    @click="props.menuLevelOpen(3)">
+                NASZE ZOBOWIĄZANIA
+                <span class="is-hidden">Wstecz</span>
+            </button>
+            <ul>
+                        <li class="main-menu-nav__item">
+                            <a href="/event/save-your-skin-melanoma"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze zobowiązania::nasze zobowiązania::chroń swoją sk&#243;rę&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze zobowiązania::nasze zobowiązania::chroń swoją sk&#243;rę&quot;}">
+                                CHROŃ SWOJĄ SK&#211;RĘ
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/event/lipikar-be-strong-inside"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze zobowiązania::nasze zobowiązania::be strong inside&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze zobowiązania::nasze zobowiązania::be strong inside&quot;}">
+                                BE STRONG INSIDE
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/event/alergeny-moga-szkodzic-twojej-skorze"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze zobowiązania::nasze zobowiązania::alergeny mogą szkodzić twojej sk&#243;rze&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze zobowiązania::nasze zobowiązania::alergeny mogą szkodzić twojej sk&#243;rze&quot;}">
+                                ALERGENY MOGĄ SZKODZIĆ TWOJEJ SK&#211;RZE
+                            </a>
+                        </li>
+                        <li class="main-menu-nav__item">
+                            <a href="/event/pionierzy-w-nauce-o-mikrobiomie-skory"
+                               v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;nasze zobowiązania::nasze zobowiązania::pionierzy w nauce o mikrobiomie sk&#243;ry&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;nasze zobowiązania::nasze zobowiązania::pionierzy w nauce o mikrobiomie sk&#243;ry&quot;}">
+                                PIONIERZY W NAUCE O MIKROBIOMIE SK&#211;RY
+                            </a>
+                        </li>
+            </ul>
+        </div>
+</li>
+                </ul>
+        </section>
+
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 4,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <a @click="props.menuLevelOpen(4)"
+           :aria-expanded="props.menuLevel2 === 4 ? 'true' : 'false'"
+           :class="{ 'false derm-scan': false }"
+           class="main-menu-nav__tab"
+           v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;promocje i testowania. zapisz się do newslettera&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;promocje i testowania. zapisz się do newslettera&quot;}"
+           href="https://klubtesterek.laroche-posay.pl/" class="push_cta_link">
+            <span class="main-menu-nav__icon">
+                <template v-if="false">
+                    <img>
+                </template>
+            </span>
+            <span>
+                PROMOCJE I TESTOWANIA. <br />
+ZAPISZ SIĘ DO NEWSLETTERA
+            </span>
+        </a>
+
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 5,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <a @click="props.menuLevelOpen(5)"
+           :aria-expanded="props.menuLevel2 === 5 ? 'true' : 'false'"
+           :class="{ 'false derm-scan': false }"
+           class="main-menu-nav__tab"
+           v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;wspieramy pacjent&amp;oacute;w onkologicznych&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;wspieramy pacjent&amp;oacute;w onkologicznych&quot;}"
+           href="/event/healing-power-of-touch" class="push_cta_link">
+            <span class="main-menu-nav__icon">
+                <template v-if="false">
+                    <img src="/-/media/project/loreal/brand-sites/lrp/emea/pl/simple-page/landing-page/healing-power-of-touch/logo-oncology.png" alt="La Roche-Posay wspiera pacjent&#243;w onkologicznych">
+                </template>
+            </span>
+            <span>
+                WSPIERAMY PACJENT&Oacute;W ONKOLOGICZNYCH
+            </span>
+        </a>
+
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 6,'is-highlight desktop-only': false }"
+    class="main-menu-nav__item">
+        <a @click="props.menuLevelOpen(6)"
+           :aria-expanded="props.menuLevel2 === 6 ? 'true' : 'false'"
+           :class="{ 'false derm-scan': false }"
+           class="main-menu-nav__tab"
+           v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;50-lecie marki&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;50-lecie marki&quot;}"
+           href="https://www.laroche-posay.pl/50-lecie-marki" class="push_cta_link">
+            <span class="main-menu-nav__icon">
+                <template v-if="false">
+                    <img>
+                </template>
+            </span>
+            <span>
+                50-LECIE MARKI
+            </span>
+        </a>
+
+</li>
+
+
+<li :class="{ 'is-active': props.menuLevel2 === 7,'is-highlight desktop-only': true }"
+    class="main-menu-nav__item">
+        <a @click="props.menuLevelOpen(7)"
+           :aria-expanded="props.menuLevel2 === 7 ? 'true' : 'false'"
+           :class="{ 'true derm-scan': true }"
+           class="main-menu-nav__tab"
+           v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;spotscan+&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;spotscan+&quot;}"
+           href="/event/effaclar-spotscan-plus" class="push_cta_link">
+            <span class="main-menu-nav__icon">
+                <template v-if="true">
+                    <img src="/-/media/project/loreal/brand-sites/lrp/emea/pl/simple-page/landing-page/spotscan-plus/spotscan-white.png" alt="SPOTSCAN PLUS logo">
+                </template>
+            </span>
+            <span>
+                SPOTSCAN+
+            </span>
+        </a>
+
+</li>
+            </ul>
+
+</template>
+
+        <template slot="derm-scan">
+            <li :class="{ 'is-highlight': true }" class="main-menu-nav__item">
+                <a :class="{ 'true derm-scan': true }"
+                   class="main-menu-nav__tab"
+                   v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::header&quot;,&quot;label&quot;:&quot;spotscan+&quot;,&quot;click_area&quot;:&quot;header&quot;,&quot;breadcrumb&quot;:&quot;spotscan+&quot;}"
+                   href="/event/effaclar-spotscan-plus" class="push_cta_link">
+                    <span class="main-menu-nav__icon">
+                        <template v-if="true">
+                            <img src="/-/media/project/loreal/brand-sites/lrp/emea/pl/simple-page/landing-page/spotscan-plus/spotscan-white.png" alt="SPOTSCAN PLUS logo">
+                        </template>
+                    </span>
+                    <span>
+                        SPOTSCAN+
+                    </span>
+                </a>
+            </li>
+        </template>
+
+
+        </main-menu>
+        <div>
+            
+        </div>
+
+    </div>
+</div>
+
+
+    </div>
+</header>
+
+            
+
+
+
+            <main role="main" id="main" class=" ">
+                <a id="main-content" tabindex="-1"></a>
+                <div id="content">
+                    <div class="main-top">
+
+
+<div class="container--grey-light breadcrumb-main" class="component LrpNavigation">
+    <div class="component-content" id="breadcrumb" itemprop="breadcrumb">
+        <nav role="navigation" aria-label="breadcrumb">
+            <ol class="breadcrumb" itemprop="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+
+                    <li class="breadcrumb__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+
+
+                        <a itemprop="item" href="/" class="breadcrumb__link" v-tag:useractionevent="{&quot;action&quot;:&quot;select::breadcrumb&quot;,&quot;category&quot;:&quot;header&quot;,&quot;label&quot;:&quot;Home&quot;}">
+                            <span itemprop="name">Home</span>
+                        </a>
+                        <meta itemprop="position" content="1"/>
+                    </li>
+                <li class="breadcrumb__item" aria-current="page">
+                    <span>404</span>
+                </li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+                    </div>
+                    
+
+    <newsletter-sticky newsletter-sticky-text='ZAPISZ SIĘ DO NEWSLETTERA' page-category='content page::article' position='Top' text-color="" close="Close"></newsletter-sticky>
+
+
+
+<div class="component NewsLetterSubscriptionFormWithImage">
+    <div class="container--is-maxwidth">
+    </div>
+</div>
+
+
+
+<div>
+    <multi-pop-in :initial-data='{"Title":"&lt;strong&gt;SPOTSCAN+&lt;/strong&gt; &lt;br&gt;\nNATYCHMIASTOWA ANALIZA SK&#211;RY&lt;/br&gt;SKŁONNEJ DO TRĄDZIKU&lt;br /&gt;","Description":"SPOTSCAN+ łączy wiedzę dermatologiczną La Roche-Posay ze sztuczną inteligencją, aby znaleźć najlepszą pielęgnację dla Twojej sk&#243;ry.","ImageUrl":"/-/media/project/loreal/brand-sites/lrp/emea/pl/push-banner/pop-up-spotscan-min.jpg?cw=574&ch=280","ImageUrlAlt":"Spotscan+ od La Roche-Posay","CtaTextDesktop":"DOWIEDZ SIĘ WIĘCEJ","CtaTextMobile":"DOWIEDZ SIĘ WIĘCEJ","CtaLink":"https://www.laroche-posay.pl/event/effaclar-spotscan-plus","CtaColor":"light","ctalinkTarget":"_blank","DelaySetting":"20","Stamp":"","Dsf":true,"DSFApplication":"skindrv2","CtaUrl":"00000000-0000-0000-0000-000000000000","IsMultilingual":"false","Item":null,"PageItem":null,"Rendering":null,"DataSourceItem":null,"CssClasses":null,"MessageEditHere":null,"MessageIsEmpty":null,"HeadingTag":null,"IsControlEditable":false,"IsEdit":false,"RenderingWebEditingParams":null,"Attributes":{}}' :dsf-data='{"Tenant":"lorealsa","Application":null,"Customer":"laroche-posay","Country":"pol","Environment":"production","Touchpoint":"web","Type":"std","Loadingmessage":"loading","Loadingbackgroundcolor":"#000","CSRFToken":"$WEBSITE_TOKEN","Switchecom":"true","Switchautostart":"false","EventName":null,"EventProperties":{"event":"uaevent","ecommerce":"undefined","eventCategory":"analysis::skindr::skin","eventAction":"content page::service::select::skindr","eventLabel":"load::skindr","event_name":"site_load_service","service_name":"skindr","service_category":"diagnose","cta_name":"rozpocznij analizę"}}' product-info='none' is-multi-lang ='false'></multi-pop-in>
+</div>
+<div class="container">
+    
+<generic-banner :is-rtl="false" :initial-data="{&quot;DesktopTitle&quot;:&quot;&lt;strong&gt;Przepraszamy, wystąpił błąd &lt;/strong&gt;&lt;br /&gt;i tym razem nie możemy Ci pom&#243;c!&quot;,&quot;DesktopText&quot;:&quot;&lt;h2&gt;&lt;strong&gt;BŁĄD 404&lt;/strong&gt;&lt;/h2&gt;\nWr&#243;ć do strony gł&#243;wnej, aby poznać nasze dermatologiczne rozwiązania do pielęgnacji sk&#243;ry.&quot;,&quot;DesktopCTALabel&quot;:&quot;WR&#211;Ć DO STRONY GŁ&#211;WNEJ&quot;,&quot;DesktopCTALink&quot;:&quot;/&quot;,&quot;DesktopImage&quot;:&quot;/-/media/project/loreal/brand-sites/lrp/emea/pl/ingredients/larocheposay-rangepage-eczema-ingredients-sprite-backgroundjpeg.png&quot;,&quot;EnableMobileVersion&quot;:false,&quot;MobileTitle&quot;:&quot;&quot;,&quot;MobileText&quot;:&quot;&quot;,&quot;MobileCTALabel&quot;:&quot;&quot;,&quot;MobileCTALink&quot;:null,&quot;MobileImage&quot;:&quot;&quot;,&quot;PresentationOption&quot;:&quot;Option5&quot;,&quot;TextpositiononImage&quot;:&quot;Left&quot;,&quot;TitleAtHnTag&quot;:&quot;NotSelected&quot;,&quot;TitleFontSize&quot;:&quot;NotSelected&quot;,&quot;WhiteColorOption&quot;:false,&quot;AddTopAndBottomMargins&quot;:false,&quot;RemoveTopMargin&quot;:false,&quot;GradientEnabled&quot;:false,&quot;ImageWidth&quot;:&quot;&quot;,&quot;EnableDSFService&quot;:false,&quot;DSFApplication&quot;:&quot;&quot;,&quot;EnableMultipurposePopin&quot;:false,&quot;EnableNewsletterPopin&quot;:false,&quot;PopinTaggingAttributes&quot;:{},&quot;EnableVideo&quot;:false,&quot;EnableAutoPlay&quot;:false,&quot;YoutubURL&quot;:&quot;&quot;,&quot;VideoCoverImage&quot;:null,&quot;TopMargin28px&quot;:false,&quot;BottomMargin28px&quot;:false,&quot;MobileImageAlt&quot;:&quot;&quot;,&quot;DesktopFocusX&quot;:&quot;0&quot;,&quot;DesktopFocusY&quot;:&quot;0&quot;,&quot;New_Image&quot;:&quot;/-/media/project/loreal/brand-sites/lrp/emea/pl/ingredients/larocheposay-rangepage-eczema-ingredients-sprite-backgroundjpeg.png&quot;,&quot;New_ImageAlt&quot;:&quot;Egzema - białe tło v2|La Roche Posay&quot;,&quot;MobileFocusX&quot;:&quot;&quot;,&quot;MobileFocusY&quot;:&quot;&quot;,&quot;EnableRoutineFinder&quot;:false,&quot;EnableBannerClick&quot;:false,&quot;EnableShutter&quot;:false}" :dsf-data="{&quot;Tenant&quot;:&quot;lorealsa&quot;,&quot;Application&quot;:null,&quot;Customer&quot;:&quot;laroche-posay&quot;,&quot;Country&quot;:&quot;pol&quot;,&quot;Environment&quot;:&quot;production&quot;,&quot;Touchpoint&quot;:&quot;web&quot;,&quot;Type&quot;:&quot;std&quot;,&quot;Loadingmessage&quot;:&quot;loading&quot;,&quot;Loadingbackgroundcolor&quot;:&quot;#000&quot;,&quot;CSRFToken&quot;:&quot;$WEBSITE_TOKEN&quot;,&quot;Switchecom&quot;:&quot;true&quot;,&quot;Switchautostart&quot;:&quot;false&quot;,&quot;EventName&quot;:null,&quot;EventProperties&quot;:{&quot;event&quot;:&quot;uaevent&quot;,&quot;ecommerce&quot;:&quot;undefined&quot;,&quot;eventCategory&quot;:&quot;analysis::skindr::skin&quot;,&quot;eventAction&quot;:&quot;content page::service::select::skindr&quot;,&quot;eventLabel&quot;:&quot;load::skindr&quot;,&quot;event_name&quot;:&quot;site_load_service&quot;,&quot;service_name&quot;:&quot;skindr&quot;,&quot;service_category&quot;:&quot;diagnose&quot;,&quot;cta_name&quot;:&quot;rozpocznij analizę&quot;}}" :dsf-tagging="{
+  &quot;event&quot;: &quot;uaevent&quot;,
+  &quot;ecommerce&quot;: &quot;undefined&quot;,
+  &quot;eventCategory&quot;: &quot;analysis::skindr::skin&quot;,
+  &quot;eventAction&quot;: &quot;content page::service::select::skindr&quot;,
+  &quot;eventLabel&quot;: &quot;load::skindr&quot;,
+  &quot;event_name&quot;: &quot;site_load_service&quot;,
+  &quot;service_name&quot;: &quot;skindr&quot;,
+  &quot;service_category&quot;: &quot;diagnose&quot;,
+  &quot;cta_name&quot;: &quot;rozpocznij analizę&quot;
+}" dsf-page-category="error page" cta-class="cta cta--light"
+                :btn-tagging="{action: 'select::banner', eventname: 'uaevent', ecommerce: 'undefined', category: 'error page', desktoplabel: 'wr&#243;ć do strony gł&#243;wnej::/', mobilelabel: ''}">
+</generic-banner>
+<div class="jump-to-content" data-target="404" data-title="404">
+    <div class="component GenericBanner">
+        <div class="component-content">
+
+        </div>
+    </div>
+</div>
+
+</div>
+
+                    <div>
+                        
+    <!-- Dynamic links component rendered without data -->
+
+                    </div>
+                </div>
+                <product-popin legend-current-volume="legend-volume current-volume"></product-popin>
+            </main>
+
+            
+        <footer-banner :initial-data="{&quot;Title&quot;:&quot;MARKA &lt;strong&gt;NR 1&lt;/strong&gt; W&amp;nbsp;POLSCE&lt;br /&gt;\n&lt;strong&gt;W&amp;nbsp;REKOMENDACJACH &lt;br /&gt;\nDERMATOLOG&amp;Oacute;W&lt;/strong&gt;*&lt;br /&gt;&quot;,&quot;Image&quot;:&quot;/-/media/project/loreal/brand-sites/lrp/emea/new-footer-banner/desktop-footer-banner.png&quot;,&quot;ImageAlt&quot;:&quot;La Roche-Posay footer &quot;,&quot;MobileImage&quot;:&quot;/-/media/project/loreal/brand-sites/lrp/emea/new-footer-banner/mobile-footer-banner.png&quot;,&quot;MobileImageAlt&quot;:&quot;La Roche-Posay footer &quot;}"> </footer-banner>
+
+<div>
+    <div class="component-content">
+        <footer class="footer" role="contentinfo">
+            <div class="footer__content container--is-maxwidth">
+                <section class="footer__item footer__item--left">
+                    
+
+
+<ul class="footer__list">
+
+        <li class="link-list__item">
+                            <a href="/newsletter-formularz" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;newsletter&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;newsletter&quot;}">
+                                Newsletter
+                            </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/event/regulamin-swiadczenia-uslug-droga-elektroniczna" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;regulamin świadczenia usług drogą elektroniczną&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;regulamin świadczenia usług drogą elektroniczną&quot;}">
+                                Regulamin Świadczenia Usług Drogą Elektroniczną
+                            </a>
+        </li>
+        <li class="link-list__item">
+                        <a href="https://www.laroche-posay.pl/event/polityka-prywatnosci-spotscan"  target="_blank" class="link-list__link" aria-label="POLITYKA PRYWATNOŚCI SPOTSCAN+ (new window)" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;polityka prywatności spotscan+&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;polityka prywatności spotscan+&quot;}">
+                            POLITYKA PRYWATNOŚCI SPOTSCAN+
+                        </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/event/polityka-prywatnosci" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;polityka prywatności&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;polityka prywatności&quot;}">
+                                Polityka Prywatności
+                            </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="#" class="link-list__link optanon-toggle-display" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;ustawienia plik&#243;w cookie&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;ustawienia plik&#243;w cookie&quot;}">
+                                Ustawienia plik&#243;w cookie
+                            </a>
+        </li>
+        <li class="link-list__item">
+                        <a href="https://www.laroche-posay.pl/event/polityka-cookies"  target="_blank" class="link-list__link" aria-label="Polityka Cookies (new window)" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;polityka cookies&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;polityka cookies&quot;}">
+                            Polityka Cookies
+                        </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/mapa-strony" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;mapa strony&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;mapa strony&quot;}">
+                                Mapa strony
+                            </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/skontaktuj-sie-z-nami" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;skontaktuj się z nami&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;skontaktuj się z nami&quot;}">
+                                SKONTAKTUJ SIĘ Z NAMI
+                            </a>
+        </li>
+        <li class="link-list__item">
+                        <a href="https://www.childhood-cancer-support.com/"  target="_blank" class="link-list__link" aria-label="Fundacja La Roche-Posay (new window)" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;fundacja la roche-posay&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;fundacja la roche-posay&quot;}">
+                            Fundacja La Roche-Posay
+                        </a>
+        </li>
+        <li class="link-list__item">
+                            <a href="/event/effaclar-spotscan-plus" class="link-list__link" v-tag:useractionevent="{&quot;event_name&quot;:&quot;menu_click&quot;,&quot;category&quot;:&quot;main menu navigation&quot;,&quot;action&quot;:&quot;select::footer&quot;,&quot;label&quot;:&quot;wypr&#243;buj spotscan+&quot;,&quot;click_area&quot;:&quot;footer&quot;,&quot;breadcrumb&quot;:&quot;wypr&#243;buj spotscan+&quot;}">
+                                WYPR&#211;BUJ SPOTSCAN+
+                            </a>
+        </li>
+</ul>
+
+                </section>
+                <section class="footer__item footer__item--middle" aria-labelledby="social-media-section">
+                    
+
+<ul class="social-links footer__social">
+            <li class="social-list__item">
+                
+<a href="https://www.facebook.com/larocheposaypl" target="" class="social-list__link" aria-label="Follow us on  (new window)" v-tag:socialactionevent.click="{socialNetwork: 'Facebook', socialTarget: 'https://www.facebook.com/larocheposaypl'}">
+            <img src="/-/media/feature/lrpnavigation/footer/fb.png?h=71&amp;w=71&amp;la=pl-PL&amp;hash=381B9635A9851E20F114E8DFE262FD38" loading="lazy" alt="Facebook icon" />
+        </a>
+
+            </li>
+            <li class="social-list__item">
+                
+<a href="https://www.instagram.com/larocheposay/" target="" class="social-list__link" aria-label="Follow us on  (new window)" v-tag:socialactionevent.click="{socialNetwork: 'Instagram', socialTarget: 'https://www.instagram.com/larocheposay/'}">
+            <img src="/-/media/feature/lrpnavigation/footer/insta.png?h=71&amp;w=71&amp;la=pl-PL&amp;hash=8746A3C80021768A537070A6A7EFA1D6" loading="lazy" alt="Instagram icon" />
+        </a>
+
+            </li>
+            <li class="social-list__item">
+                
+<a href="https://www.youtube.com/user/IloveLRP" target="" class="social-list__link" aria-label="Follow us on  (new window)" v-tag:socialactionevent.click="{socialNetwork: 'YouTube', socialTarget: 'https://www.youtube.com/user/IloveLRP'}">
+            <img src="/-/media/feature/lrpnavigation/footer/youtube.png?h=71&amp;w=71&amp;la=pl-PL&amp;hash=3CE8CB3220F66A040802CB157539CDF2" loading="lazy" alt="YouTube icon" />
+        </a>
+
+            </li>
+
+</ul>
+        <p class="footer__disclaimer">
+            <em>*Badanie rynku dermokosmetyk&oacute;w z udziałem dermatolog&oacute;w w Polsce, AplusA, I-IV 2023.</em>
+        </p>
+
+
+
+
+
+
+                </section>
+                <section class="footer__item footer__item--right">
+                    <div class="footer__copyright">
+                        
+
+    <div class="jump-to-content" data-target="Footer-Copyright" data-title="Footer Copyright">
+        <div class="component rich-text container--is-fullwidth ">
+            <div class="component-content container--is-maxwidth container--padded-hor">
+<p>&copy; La Roche-Posay<br />&copy;
+ Centre Thermal de La Roche-Posay<br />&copy;
+ Getty Images<br />&copy;
+ Thinkstock<br />&copy;
+ L'OREAL</p>            </div>
+        </div>
+    </div>
+
+
+                    </div>
+                </section>
+            </div>
+        </footer>
+    </div>
+</div>
+
+
+
+            <!-- need for PWA, adding site to homescreen
+            <notification close-aria-label="close modal">
+                add LRP to homescreen
+            </notification>
+            <fractal-devbar lang="fr"></fractal-devbar> -->
+        </div>
+        
+
+
+
+                                <!-- /#wrapper -->
+        
+    </body>
+</html>
