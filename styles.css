@@ -2358,11 +2358,7 @@ h1 {
   }
 
   .hero-motion {
-    right: clamp(16px, 8vw, 72px);
-    bottom: 92px;
-    width: min(58vw, 390px);
-    height: min(58vw, 390px);
-    opacity: 0.9;
+    display: none;
   }
 
   .showcase-card {
@@ -2391,9 +2387,11 @@ h1 {
   }
 
   .hero-product-flow {
+    position: relative;
     left: 18px;
     right: 18px;
-    bottom: 18px;
+    bottom: auto;
+    margin-top: 16px;
   }
 
   .flow-product {
