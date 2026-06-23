@@ -27,11 +27,13 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
   margin: 0;
   min-width: 320px;
+  overflow-x: hidden;
   background: linear-gradient(180deg, #fffaf1 0%, #ffffff 36%, #fbfaf8 100%);
   color: var(--ink);
   font-family: Arial, Helvetica, sans-serif;
@@ -2423,8 +2425,13 @@ h1 {
   }
 
   .topbar {
+    grid-template-columns: 1fr;
     gap: 12px;
-    padding: 12px;
+    padding: 12px 11px 8px;
+  }
+
+  .brand {
+    justify-self: start;
   }
 
   .brand small {
@@ -2432,12 +2439,52 @@ h1 {
   }
 
   .top-actions {
+    width: 100%;
     flex-wrap: wrap;
+    justify-content: stretch;
+  }
+
+  .top-actions .nav-button,
+  .top-actions .cart-button {
+    flex: 1 1 140px;
+    justify-content: center;
+    min-height: 42px;
+  }
+
+  .house-nav {
+    grid-column: 1;
+    flex-wrap: nowrap;
+    gap: 8px;
+    margin: 0 -11px;
+    padding: 8px 11px 10px;
+    overflow-x: auto;
+    overflow-y: visible;
+    scrollbar-width: none;
+    scroll-snap-type: x proximity;
+  }
+
+  .house-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .nav-menu-item,
+  .house-nav > a {
+    scroll-snap-align: start;
+  }
+
+  .house-nav a,
+  .house-nav button {
+    min-height: 40px;
+    white-space: nowrap;
   }
 
   .nav-dropdown {
+    position: fixed;
+    right: 12px;
+    left: 12px;
+    top: 118px;
     min-width: 210px;
-    max-height: min(60vh, 460px);
+    max-height: min(62vh, 460px);
     overflow-y: auto;
   }
 
@@ -2447,18 +2494,18 @@ h1 {
   }
 
   .intro {
-    min-height: 740px;
-    padding: 28px 20px;
+    min-height: 690px;
+    padding: 24px 18px;
     align-items: start;
   }
 
   .hero-motion {
     right: 50%;
-    bottom: 94px;
-    width: min(88vw, 330px);
-    height: min(88vw, 330px);
-    min-width: 260px;
-    min-height: 260px;
+    bottom: 86px;
+    width: min(82vw, 304px);
+    height: min(82vw, 304px);
+    min-width: 238px;
+    min-height: 238px;
     margin-right: max(-44vw, -165px);
     opacity: 0.86;
   }
@@ -2468,19 +2515,19 @@ h1 {
   }
 
   .showcase-card {
-    width: min(100%, 270px);
-    min-height: 292px;
-    padding: 18px 18px 20px;
+    width: min(100%, 250px);
+    min-height: 270px;
+    padding: 16px 16px 18px;
   }
 
   .showcase-image-wrap {
-    width: 160px;
-    height: 160px;
+    width: 142px;
+    height: 142px;
   }
 
   .showcase-image {
-    width: 132px;
-    height: 132px;
+    width: 118px;
+    height: 118px;
   }
 
   .showcase-side-icons {
@@ -2573,11 +2620,21 @@ h1 {
   }
 
   h1 {
-    font-size: clamp(2.65rem, 14vw, 4.4rem);
+    font-size: clamp(2.35rem, 13vw, 4.05rem);
+    line-height: 0.96;
+  }
+
+  .intro-copy > p:not(.eyebrow) {
+    font-size: 0.98rem;
   }
 
   .search {
     grid-template-columns: 1fr;
+    margin-top: 20px;
+  }
+
+  .search input {
+    padding: 14px;
   }
 
   .search button {
@@ -2618,11 +2675,33 @@ h1 {
   }
 
   .filters {
+    flex-wrap: nowrap;
     justify-content: flex-start;
+    margin: 0 -11px;
+    padding: 2px 11px 8px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .filters::-webkit-scrollbar {
+    display: none;
+  }
+
+  .filter {
+    flex: 0 0 auto;
   }
 
   .brand-list {
+    flex-wrap: nowrap;
     justify-content: flex-start;
+    margin: 0 -11px;
+    padding: 0 11px 8px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .brand-list::-webkit-scrollbar {
+    display: none;
   }
 
   .product-art {
@@ -2640,6 +2719,18 @@ h1 {
     grid-template-columns: 1fr;
   }
 
+  .product-title-row {
+    grid-template-columns: 1fr;
+  }
+
+  .price-stack {
+    justify-items: start;
+  }
+
+  .product-body {
+    padding: 14px;
+  }
+
   .product-actions {
     flex-direction: column;
   }
@@ -2653,5 +2744,187 @@ h1 {
   .site-footer nav {
     align-items: flex-start;
     flex-direction: column;
+  }
+
+  .cart-sheet {
+    width: 100%;
+    padding: 16px;
+  }
+
+  .cart-head h2 {
+    font-size: 1.35rem;
+  }
+
+  .quantity {
+    justify-content: space-between;
+  }
+
+  .checkout-total,
+  .receipt-actions {
+    gap: 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  .promo-strip {
+    padding: 7px 12px;
+  }
+
+  .brand-name {
+    font-size: clamp(1.45rem, 10vw, 1.95rem);
+  }
+
+  .brand small {
+    font-size: 0.62rem;
+  }
+
+  .top-actions .nav-button,
+  .top-actions .cart-button {
+    flex-basis: calc(50% - 4px);
+    padding-inline: 10px;
+    font-size: 0.78rem;
+  }
+
+  main {
+    width: min(100% - 16px, 1280px);
+  }
+
+  .intro {
+    min-height: 650px;
+    padding: 22px 14px;
+  }
+
+  .eyebrow {
+    font-size: 0.68rem;
+  }
+
+  h1 {
+    font-size: clamp(2.1rem, 12vw, 3.55rem);
+  }
+
+  .intro-copy > p:not(.eyebrow) {
+    max-width: 94%;
+  }
+
+  .hero-motion {
+    bottom: 78px;
+    width: min(78vw, 270px);
+    height: min(78vw, 270px);
+    min-width: 214px;
+    min-height: 214px;
+    margin-right: max(-39vw, -135px);
+  }
+
+  .showcase-card {
+    width: min(100%, 224px);
+    min-height: 238px;
+    padding: 13px 13px 16px;
+  }
+
+  .showcase-image-wrap {
+    width: 118px;
+    height: 118px;
+  }
+
+  .showcase-image {
+    width: 100px;
+    height: 100px;
+  }
+
+  .showcase-copy span {
+    font-size: 0.62rem;
+  }
+
+  .showcase-copy strong {
+    font-size: 0.88rem;
+  }
+
+  .showcase-copy small {
+    font-size: 0.72rem;
+  }
+
+  .showcase-side-icons {
+    right: -1%;
+    gap: 7px;
+  }
+
+  .showcase-side-icons img,
+  .showcase-side-icons img:nth-child(2) {
+    width: 44px;
+    height: 44px;
+    margin-left: 0;
+    padding: 6px;
+  }
+
+  .motion-chip {
+    min-width: 44px;
+    min-height: 30px;
+    font-size: 0.68rem;
+  }
+
+  .hero-product-flow {
+    bottom: 10px;
+  }
+
+  .flow-product {
+    grid-template-columns: 36px minmax(0, 76px);
+    width: 124px;
+    min-height: 54px;
+    padding: 6px;
+  }
+
+  .flow-product img {
+    width: 36px;
+    height: 40px;
+  }
+
+  .flow-product span {
+    font-size: 0.62rem;
+  }
+
+  .intro-stats div {
+    min-width: 0;
+    padding: 14px;
+  }
+
+  .intro-stats span {
+    font-size: 1.8rem;
+  }
+
+  .product-art {
+    height: 210px;
+  }
+
+  .product-image {
+    height: 172px;
+  }
+
+  .offer-badge,
+  .badge {
+    max-width: calc(100% - 24px);
+    font-size: 0.66rem;
+  }
+
+  .newsletter-form button,
+  .help-form button,
+  .primary-button,
+  .secondary-button {
+    width: 100%;
+  }
+
+  .cart-sheet {
+    gap: 12px;
+    padding: 14px 12px;
+  }
+
+  .checkout-form input,
+  .checkout-form textarea {
+    padding: 12px;
+  }
+
+  .toast {
+    right: 10px;
+    bottom: 10px;
+    max-width: calc(100% - 20px);
   }
 }
