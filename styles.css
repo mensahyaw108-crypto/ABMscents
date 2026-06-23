@@ -532,6 +532,7 @@ main {
 .showcase-card {
   position: relative;
   display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
   place-items: center;
   width: min(100%, 340px);
   min-height: 360px;
@@ -569,6 +570,7 @@ main {
 .showcase-copy {
   display: grid;
   gap: 5px;
+  align-self: start;
   width: 100%;
   margin-top: 18px;
   text-align: center;
@@ -1264,9 +1266,11 @@ h1 {
 .product-art {
   position: relative;
   display: grid;
+  flex: 0 0 auto;
   height: 260px;
   place-items: center;
   overflow: hidden;
+  isolation: isolate;
   border-bottom: 1px solid var(--line);
   background:
     linear-gradient(180deg, #fffdf8, #faf6f0);
@@ -1280,8 +1284,8 @@ h1 {
 .product-image {
   position: relative;
   z-index: 1;
-  width: min(86%, 224px);
-  height: 224px;
+  width: min(76%, 198px);
+  height: min(190px, calc(100% - 62px));
   object-fit: contain;
   filter: drop-shadow(0 20px 18px rgba(25, 23, 26, 0.17));
 }
@@ -1352,11 +1356,14 @@ h1 {
 }
 
 .product-body {
+  position: relative;
+  z-index: 2;
   display: flex;
   flex: 1;
   flex-direction: column;
   gap: 12px;
   padding: 16px;
+  background: rgba(255, 255, 255, 0.98);
 }
 
 .product-title-row {
@@ -2709,7 +2716,8 @@ h1 {
   }
 
   .product-image {
-    height: 198px;
+    width: min(72%, 180px);
+    height: min(166px, calc(100% - 58px));
   }
 
   .product-actions,
@@ -2896,7 +2904,8 @@ h1 {
   }
 
   .product-image {
-    height: 172px;
+    width: min(70%, 158px);
+    height: min(140px, calc(100% - 56px));
   }
 
   .offer-badge,
