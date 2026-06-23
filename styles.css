@@ -2435,6 +2435,9 @@ h1 {
     grid-template-columns: 1fr;
     gap: 12px;
     padding: 12px 11px 8px;
+    width: 100%;
+    max-width: 100vw;
+    overflow: hidden;
   }
 
   .brand {
@@ -2446,22 +2449,32 @@ h1 {
   }
 
   .top-actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     width: 100%;
-    flex-wrap: wrap;
-    justify-content: stretch;
+    max-width: 100%;
+    overflow: hidden;
+    gap: 8px;
   }
 
   .top-actions .nav-button,
   .top-actions .cart-button {
-    flex: 1 1 140px;
+    width: 100%;
     justify-content: center;
+    min-width: 0;
     min-height: 42px;
+  }
+
+  .top-actions .cart-button {
+    grid-column: 1 / -1;
   }
 
   .house-nav {
     grid-column: 1;
     flex-wrap: nowrap;
     gap: 8px;
+    width: 100vw;
+    max-width: 100vw;
     margin: 0 -11px;
     padding: 8px 11px 10px;
     overflow-x: auto;
@@ -2497,14 +2510,40 @@ h1 {
 
   main {
     width: min(100% - 22px, 1280px);
+    max-width: 100vw;
     padding-top: 12px;
+    overflow: hidden;
   }
 
   .intro {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    max-width: 100%;
     min-height: 0;
-    padding: 24px 18px;
+    overflow: hidden;
+    padding: 20px 18px;
+  }
+
+  .intro > *,
+  .intro-copy,
+  .intro-stats,
+  .search,
+  .view-shell,
+  .section-head,
+  .editorial-panel,
+  .newsletter,
+  .customer-help,
+  .finishing-touch {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  h1,
+  h2,
+  h3,
+  p {
+    overflow-wrap: break-word;
   }
 
   .intro::before,
@@ -2527,18 +2566,7 @@ h1 {
   }
 
   .hero-motion {
-    order: 3;
-    position: relative;
-    right: auto;
-    bottom: auto;
-    z-index: 2;
-    width: min(100%, 304px);
-    height: 304px;
-    min-width: 0;
-    min-height: 0;
-    margin: 24px auto 18px;
-    opacity: 0.86;
-    transform: none;
+    display: none;
   }
 
   .timed-showcase {
@@ -2588,13 +2616,15 @@ h1 {
   }
 
   .hero-product-flow {
-    order: 4;
+    order: 3;
     position: relative;
     left: auto;
     right: auto;
     bottom: auto;
     z-index: 2;
-    margin: 12px -18px 0;
+    width: auto;
+    max-width: calc(100% + 36px);
+    margin: 16px -18px 0;
     padding-block: 10px 12px;
     transform: none;
   }
@@ -2643,13 +2673,20 @@ h1 {
   }
 
   h1 {
-    font-size: clamp(2.35rem, 13vw, 4.05rem);
-    line-height: 0.96;
+    max-width: 100%;
+    margin-bottom: 12px;
+    font-size: clamp(1.82rem, 8.4vw, 2.5rem);
+    line-height: 1.04;
+    overflow-wrap: normal;
   }
 
   .intro-copy > p:not(.eyebrow) {
     font-size: 0.98rem;
     max-width: 100%;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
   }
 
   .search {
@@ -2666,7 +2703,6 @@ h1 {
     min-height: 44px;
   }
 
-  .intro-stats,
   .product-grid,
   .order-columns,
   .beauty-strip,
@@ -2681,13 +2717,19 @@ h1 {
     grid-template-columns: 1fr;
   }
 
+  .intro-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    max-width: none;
+  }
+
   .editorial-panel {
     display: grid;
-    grid-template-rows: auto auto;
-    gap: 18px;
+    grid-template-columns: 92px minmax(0, 1fr);
+    grid-template-rows: auto;
+    gap: 14px;
     min-height: 0;
-    align-items: start;
-    padding: 24px 20px;
+    align-items: center;
+    padding: 18px;
   }
 
   .editorial-panel > div {
@@ -2702,15 +2744,15 @@ h1 {
     z-index: 0;
     order: -1;
     justify-self: center;
-    width: min(64vw, 220px);
-    height: 180px;
+    width: 92px;
+    height: 118px;
     margin: 0;
     opacity: 1;
   }
 
   .editorial-panel h2 {
     max-width: 100%;
-    font-size: clamp(2rem, 10vw, 3.1rem);
+    font-size: clamp(1.55rem, 7vw, 2.2rem);
   }
 
   .editorial-panel p:not(.eyebrow) {
@@ -2720,6 +2762,7 @@ h1 {
   .editorial-panel a {
     width: fit-content;
     max-width: 100%;
+    min-height: 38px;
   }
 
   .section-head {
@@ -2832,20 +2875,23 @@ h1 {
     font-size: 0.62rem;
   }
 
+  .top-actions {
+    grid-template-columns: 1fr;
+  }
+
   .top-actions .nav-button,
   .top-actions .cart-button {
-    flex-basis: calc(50% - 4px);
     padding-inline: 10px;
     font-size: 0.78rem;
   }
 
   main {
-    width: min(100% - 16px, 1280px);
+    width: min(100% - 32px, 1280px);
   }
 
   .intro {
     min-height: 0;
-    padding: 22px 14px;
+    padding: 18px 12px;
   }
 
   .eyebrow {
@@ -2853,17 +2899,48 @@ h1 {
   }
 
   h1 {
-    font-size: clamp(2.1rem, 12vw, 3.55rem);
+    font-size: clamp(1.35rem, 6.8vw, 1.78rem);
+  }
+
+  h2,
+  .editorial-panel h2 {
+    font-size: clamp(1.18rem, 5.8vw, 1.58rem);
+    line-height: 1.08;
+  }
+
+  .intro-copy,
+  .product-body,
+  .beauty-strip article,
+  .offer-board article,
+  .finder-grid article,
+  .brand-rail,
+  .editorial-panel {
+    padding-right: 14px;
+  }
+
+  .intro-copy > *,
+  .beauty-strip article > *,
+  .offer-board article > *,
+  .finder-grid article > *,
+  .editorial-panel > div > *,
+  .brand-rail > div:first-child > * {
+    max-width: calc(100% - 24px);
+  }
+
+  .search,
+  .intro-stats {
+    max-width: calc(100% - 12px);
+  }
+
+  .intro-copy > p:not(.eyebrow),
+  .offer-board p,
+  .beauty-strip span,
+  .finder-grid p {
+    font-size: 0.92rem;
   }
 
   .intro-copy > p:not(.eyebrow) {
     max-width: 94%;
-  }
-
-  .hero-motion {
-    width: min(100%, 270px);
-    height: 270px;
-    margin-top: 20px;
   }
 
   .showcase-card {
@@ -2914,7 +2991,7 @@ h1 {
   }
 
   .hero-product-flow {
-    margin-inline: -14px;
+    margin-inline: -12px;
   }
 
   .flow-product {
