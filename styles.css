@@ -2501,20 +2501,22 @@ h1 {
   }
 
   .intro {
-    min-height: 690px;
+    display: block;
+    min-height: 0;
     padding: 24px 18px;
-    align-items: start;
   }
 
   .hero-motion {
-    right: 50%;
-    bottom: 86px;
-    width: min(82vw, 304px);
-    height: min(82vw, 304px);
-    min-width: 238px;
-    min-height: 238px;
-    margin-right: max(-44vw, -165px);
+    position: relative;
+    right: auto;
+    bottom: auto;
+    width: min(100%, 304px);
+    height: 304px;
+    min-width: 0;
+    min-height: 0;
+    margin: 24px auto 18px;
     opacity: 0.86;
+    transform: none;
   }
 
   .timed-showcase {
@@ -2564,10 +2566,13 @@ h1 {
   }
 
   .hero-product-flow {
-    left: 0;
-    right: 0;
-    bottom: 16px;
+    position: relative;
+    left: auto;
+    right: auto;
+    bottom: auto;
+    margin: 12px -18px 0;
     padding-block: 10px 12px;
+    transform: none;
   }
 
   .product-flow-track {
@@ -2633,11 +2638,13 @@ h1 {
 
   .intro-copy > p:not(.eyebrow) {
     font-size: 0.98rem;
+    max-width: 100%;
   }
 
   .search {
     grid-template-columns: 1fr;
     margin-top: 20px;
+    box-shadow: 0 12px 26px rgba(25, 23, 26, 0.1);
   }
 
   .search input {
@@ -2663,17 +2670,44 @@ h1 {
     grid-template-columns: 1fr;
   }
 
+  .intro-stats {
+    transform: none;
+  }
+
   .editorial-panel {
-    min-height: 380px;
+    display: grid;
+    grid-template-rows: auto auto;
+    gap: 18px;
+    min-height: 0;
+    align-items: start;
+    padding: 24px 20px;
   }
 
   .editorial-panel img {
+    position: relative;
     top: auto;
-    right: 50%;
-    bottom: 26px;
-    width: 190px;
-    margin-right: -95px;
-    opacity: 0.72;
+    right: auto;
+    z-index: 0;
+    order: -1;
+    justify-self: center;
+    width: min(64vw, 220px);
+    height: 180px;
+    margin: 0;
+    opacity: 1;
+  }
+
+  .editorial-panel h2 {
+    max-width: 100%;
+    font-size: clamp(2rem, 10vw, 3.1rem);
+  }
+
+  .editorial-panel p:not(.eyebrow) {
+    max-width: 100%;
+  }
+
+  .editorial-panel a {
+    width: fit-content;
+    max-width: 100%;
   }
 
   .section-head {
@@ -2798,7 +2832,7 @@ h1 {
   }
 
   .intro {
-    min-height: 650px;
+    min-height: 0;
     padding: 22px 14px;
   }
 
@@ -2815,12 +2849,9 @@ h1 {
   }
 
   .hero-motion {
-    bottom: 78px;
-    width: min(78vw, 270px);
-    height: min(78vw, 270px);
-    min-width: 214px;
-    min-height: 214px;
-    margin-right: max(-39vw, -135px);
+    width: min(100%, 270px);
+    height: 270px;
+    margin-top: 20px;
   }
 
   .showcase-card {
@@ -2871,7 +2902,7 @@ h1 {
   }
 
   .hero-product-flow {
-    bottom: 10px;
+    margin-inline: -14px;
   }
 
   .flow-product {
